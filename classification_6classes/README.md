@@ -1,4 +1,4 @@
-# Multi Class Classification
+# Multiclass Classification
 
 Original Source: http://faculty.neu.edu.cn/songkc/en/zdylm/263265/list/index.htm  
   
