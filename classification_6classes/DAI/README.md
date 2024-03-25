@@ -7,4 +7,4 @@ Dataset:
 ***
 
 ![Experiment終了](./display_img/experiment_done.png)
-![スコア](./display/img/score.png)
+![スコア](./display_img/score.png)
