@@ -13,4 +13,4 @@ Original Source: http://faculty.neu.edu.cn/songkc/en/zdylm/263265/list/index.htm
 
 ***
 
-[EDA](./EDA.opynb)
+[EDA](./EDA.ipynb)
