@@ -6,5 +6,5 @@ Original Source: http://faculty.neu.edu.cn/songkc/en/zdylm/263265/list/index.htm
 
 ***
 
- - Driverless AIによる実施
- - Hydrogen Torchによる実施
+ - Driverless AIによる実施: [DAI dir](./DAI)
+ - Hydrogen Torchによる実施: [HT dir](./HT)
