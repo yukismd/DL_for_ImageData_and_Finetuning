@@ -14,5 +14,5 @@ XXXX
 ***
 
 [EDA](./EDA.ipynb)  
-![sample]('./sample_imgs.png')  
+  
 <img src="./sample_imgs.png" alt="sample">
