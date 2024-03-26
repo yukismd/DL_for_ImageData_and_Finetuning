@@ -19,3 +19,5 @@ Original Source: https://competition.nishika.com/competitions/cable/summary
   
   
 <img src="./sample_imgs.png" alt="sample">
+
+<img src="./class_distribution.png" alt="classes">
