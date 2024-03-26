@@ -7,7 +7,8 @@ Original Source: https://competition.nishika.com/competitions/cable/summary
    - 最小サイズ： (H, W, C) = (31, 69, 3)
    - 最大サイズ: (H, W, C) = (1622, 1512, 3)
  - 学習データ数：1400、テストデータ数:248、合計:1648
-  
+
+<img src="./class_distribution.png" alt="classes">
 ***
 
  - Driverless AIによる実施: [DAI dir](./DAI)
@@ -20,4 +21,3 @@ Original Source: https://competition.nishika.com/competitions/cable/summary
   
 <img src="./sample_imgs.png" alt="sample">
 
-<img src="./class_distribution.png" alt="classes">
