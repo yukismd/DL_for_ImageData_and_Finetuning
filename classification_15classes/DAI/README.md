@@ -11,7 +11,7 @@ Dataset:
 <img src="./display_images/insight3.png" alt="img4">
 <img src="./display_images/insight4.png" alt="img5">
 
-| Metric      | Test_data  |
+| Metric      | Test Data Score  |
 |-------------|------------|
 | ACCURACY    | 0.9677419  |
 | AUC         | 0.9989176  |
