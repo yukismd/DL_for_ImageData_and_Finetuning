@@ -5,6 +5,12 @@ Dataset:
 - (Test) https://sample-data-open.s3.ap-northeast-1.amazonaws.com/cable_classification_15classes/cable_classify_15classes_DAI_Test.zip
 
 ***
+<img src="./display_images/AutoImage.png" alt="img1">
+<img src="./display_images/insight1.png" alt="img2">
+<img src="./display_images/insight2.png" alt="img3">
+<img src="./display_images/insight3.png" alt="img4">
+<img src="./display_images/insight4.png" alt="img5">
+
 | Metric      | Test_data  |
 |-------------|------------|
 | ACCURACY    | 0.9677419  |
@@ -27,8 +33,4 @@ Dataset:
 | PRECISION   | 0.9677419  |
 | RECALL      | 0.9677419  |
 | TNR         | 0.9976959  |
-
-
-![Experiment終了](./display_img/experiment_done.png)
-![スコア](./display_img/score.png)
 
