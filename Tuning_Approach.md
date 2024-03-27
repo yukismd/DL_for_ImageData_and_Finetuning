@@ -12,3 +12,9 @@
 - BackbornはEfficientNetやResNetが汎用的で良い
 - 優先度の高いデータ拡張は、horizontal、Vertical、Transpose Flip（３つの斑点）。それらの次は、Shift、Scale、Rotate。HUE、Saturation、Random Noise、Blurなども試してみる価値あり。（データ拡張を多用している場合、エポック数が十分か確認）
 
+- リスト1
+    - ネスト リスト1_1
+        - ネスト リスト1_1_1
+        - ネスト リスト1_1_2
+    - ネスト リスト1_2
+- リスト2
