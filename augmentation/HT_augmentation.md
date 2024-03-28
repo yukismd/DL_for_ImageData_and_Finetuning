@@ -1,6 +1,6 @@
 ## Hydrogen Torch データ拡張
 
-<img src="display_imgs/HT_augmentation.png" alt="ht">
+<img src="display_imgs/augmentation.png" alt="ht">
 
   
 Augmentations Strategy
