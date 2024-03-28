@@ -12,6 +12,6 @@ Mix Image
  - Disabled: 
  - Mixup: 
  - Cutmix: 
-  
 
+Document: [Augmentation settings](https://docs.h2o.ai/h2o-hydrogen-torch/guide/experiments/experiment-settings/image-regression#augmentation-settings)
 
