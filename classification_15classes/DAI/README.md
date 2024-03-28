@@ -37,7 +37,7 @@ Dataset:
 
 ***
 ### Image Vectorizer
-<img src="./display_images/Vectorizer" alt="img2">
+<img src="./display_images/Vectorizer.png" alt="img2">
 
 | Metric     | Validation Data Score | Test Data Score |
 |------------|-----------------------|-----------------|
