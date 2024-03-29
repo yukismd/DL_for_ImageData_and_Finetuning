@@ -14,12 +14,7 @@ HT Document: [Augmentation settings](https://docs.h2o.ai/h2o-hydrogen-torch/guid
  - Augmentations Strategy
      - Soft: Resize & HorizontalFlip
      - Medium: Soft strategy + ShiftScaleRotate & CoarseDropout
-     - Hard: Medium strategy（Resizeの代わりにRandomResizedCrop) + RandomBrightnessContrast 
- - Mix Image
-     - Disabled: 適用なし
-     - Mixup: 2つの画像を重ねる手法
-     - Cutmix: 画像をパッチで別の画像で埋める手法
-
+     - Hard: Medium strategy（Resizeの代わりにRandomResizedCrop) + RandomBrightnessContrast
 > Resize: 圧縮によるリサイズ  
 > HorizontalFlip: 左右反転  
 > ShiftScaleRotate: ずらし、縮小/拡大、回転  
@@ -27,6 +22,11 @@ HT Document: [Augmentation settings](https://docs.h2o.ai/h2o-hydrogen-torch/guid
 > RandomResizedCrop: 画像の切り抜きによるリサイズ  
 > RandomBrightnessContrast: 明るさ、コントラスト
   
+ - Mix Image
+     - Disabled: 適用なし
+     - Mixup: 2つの画像を重ねる手法
+     - Cutmix: 画像をパッチで別の画像で埋める手法
+    
 ### Augmentation Strategy - Soft/Medium/Hard  
 [HT_augmentation.ipynb](./HT_augmentation.ipynb)
 <img src="display_imgs/Original.png" alt="a1">
