@@ -21,7 +21,7 @@ HT Document: [Augmentation settings](https://docs.h2o.ai/h2o-hydrogen-torch/guid
      - Cutmix: 画像をパッチで別の画像で埋める手法
 
 > Resize: 圧縮によるリサイズ  
-> HorizontalFlip: 左右反転
+> HorizontalFlip: 左右反転  
 > ShiftScaleRotate: ずらし、縮小/拡大、回転  
 > CoarseDropout: 穴を開ける  
 > RandomResizedCrop: 画像の切り抜きによるリサイズ  
