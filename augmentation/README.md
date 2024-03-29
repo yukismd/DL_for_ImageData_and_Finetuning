@@ -33,3 +33,6 @@ HT Document: [Augmentation settings](https://docs.h2o.ai/h2o-hydrogen-torch/guid
 <img src="display_imgs/Soft.png" alt="a2">
 <img src="display_imgs/Medium.png" alt="a3">
 <img src="display_imgs/Hard.png" alt="a4">
+
+### Mix Image- Mixup/Cutmix
+to do 
