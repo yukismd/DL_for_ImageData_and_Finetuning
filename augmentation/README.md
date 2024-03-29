@@ -22,9 +22,9 @@ HT Document: [Augmentation settings](https://docs.h2o.ai/h2o-hydrogen-torch/guid
 
 > Resize: 圧縮によるリサイズ  
 > HorizontalFlip: 左右反転
-> ShiftScaleRotate: ずらし、縮小/拡大、回転
-> CoarseDropout: 穴を開ける
-> RandomResizedCrop: 画像の切り抜きによるリサイズ
+> ShiftScaleRotate: ずらし、縮小/拡大、回転  
+> CoarseDropout: 穴を開ける  
+> RandomResizedCrop: 画像の切り抜きによるリサイズ  
 > RandomBrightnessContrast: 明るさ、コントラスト
   
 ### Soft/Medium/Hard Strategy  
