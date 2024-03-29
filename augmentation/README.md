@@ -19,6 +19,9 @@ HT Document: [Augmentation settings](https://docs.h2o.ai/h2o-hydrogen-torch/guid
      - Disabled: 適用なし
      - Mixup: 2つの画像を重ねる手法
      - Cutmix: 画像をパッチで別の画像で埋める手法
+
+> Resize: 圧縮によるリサイズ
+> HorizontalFlip: 左右反転
   
 ### Soft/Medium/Hard Strategy  
 [HT_augmentation.ipynb](./HT_augmentation.ipynb)
