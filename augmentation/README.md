@@ -27,7 +27,7 @@ HT Document: [Augmentation settings](https://docs.h2o.ai/h2o-hydrogen-torch/guid
 > RandomResizedCrop: 画像の切り抜きによるリサイズ  
 > RandomBrightnessContrast: 明るさ、コントラスト
   
-### Soft/Medium/Hard Strategy  
+### Augmentation Strategy - Soft/Medium/Hard  
 [HT_augmentation.ipynb](./HT_augmentation.ipynb)
 <img src="display_imgs/Original.png" alt="a1">
 <img src="display_imgs/Soft.png" alt="a2">
