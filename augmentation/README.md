@@ -1,7 +1,13 @@
+# データ拡張
+
+***
+[Albumentations documentation](https://albumentations.ai/docs/)
+
+***
+
 ## Hydrogen Torch データ拡張
 
 <img src="display_imgs/augmentation.png" alt="ht">
-
   
 Augmentations Strategy
  - Soft: Resize & HorizontalFlip
@@ -13,5 +19,10 @@ Mix Image
  - Mixup: 2つの画像を重ねる手法
  - Cutmix: 画像をパッチで別の画像で埋める手法
 
-Document: [Augmentation settings](https://docs.h2o.ai/h2o-hydrogen-torch/guide/experiments/experiment-settings/image-regression#augmentation-settings)
+HT Document: [Augmentation settings](https://docs.h2o.ai/h2o-hydrogen-torch/guide/experiments/experiment-settings/image-regression#augmentation-settings)
 
+[HT_augmentation.ipynb](./HT_augmentation.ipynb)
+<img src="display_imgs/Original.png" alt="a1">
+<img src="display_imgs/Soft.png" alt="a2">
+<img src="display_imgs/Medium.png" alt="a3">
+<img src="display_imgs/Hard.png" alt="a4">
