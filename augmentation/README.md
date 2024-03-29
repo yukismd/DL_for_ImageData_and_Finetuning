@@ -7,6 +7,8 @@
 
 ## Hydrogen Torch データ拡張
 
+HT Document: [Augmentation settings](https://docs.h2o.ai/h2o-hydrogen-torch/guide/experiments/experiment-settings/image-regression#augmentation-settings)
+
 <img src="display_imgs/augmentation.png" alt="ht">
   
  - Augmentations Strategy
@@ -18,8 +20,7 @@
      - Mixup: 2つの画像を重ねる手法
      - Cutmix: 画像をパッチで別の画像で埋める手法
   
-HT Document: [Augmentation settings](https://docs.h2o.ai/h2o-hydrogen-torch/guide/experiments/experiment-settings/image-regression#augmentation-settings)
-  
+### Soft/Medium/Hard Strategy  
 [HT_augmentation.ipynb](./HT_augmentation.ipynb)
 <img src="display_imgs/Original.png" alt="a1">
 <img src="display_imgs/Soft.png" alt="a2">
