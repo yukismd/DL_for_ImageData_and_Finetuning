@@ -1,0 +1,4 @@
+Mon Apr  1 10:00:30 2024 Fold 0, Epoch 0, lr: 0.0001000, loss_train: 2.46399, loss_valid: 2.40979, acc: 0.2915.
+Mon Apr  1 10:03:26 2024 Fold 0, Epoch 1, lr: 0.0000000, loss_train: 2.35257, loss_valid: 2.40092, acc: 0.2814.
+Mon Apr  1 10:32:40 2024 Fold 0, Epoch 0, lr: 0.0001000, loss_train: 2.56922, loss_valid: 2.47644, acc: 0.2814.
+Mon Apr  1 10:35:31 2024 Fold 0, Epoch 1, lr: 0.0000000, loss_train: 2.43795, loss_valid: 2.43283, acc: 0.3166.
