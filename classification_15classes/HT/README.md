@@ -5,5 +5,5 @@ Dataset:
 
 ***
 
-![Leader Board](./display_img/LeaderBoard.png)
-![Experiment Round](./display_img/ExperimentRound.png)
+![Leader Board](./display_images/LeaderBoard.png)
+![Experiment Round](./display_images/ExperimentRound.png)
