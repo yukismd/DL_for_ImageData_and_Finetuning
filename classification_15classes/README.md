@@ -14,7 +14,8 @@ Original Source: https://competition.nishika.com/competitions/cable/summary
 
  - Driverless AIによる実施: [DAI dir](./DAI)
  - Hydrogen Torchによる実施: [HT dir](./HT)
-
+ - PyTorchによる実施: [PT dir](./PT)
+   
 ***
 
 [EDA](./EDA.ipynb)  
