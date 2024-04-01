@@ -5,5 +5,5 @@ Dataset:
 
 ***
 
-![学習履歴](./display_img/learning_history.png)
-![スコア](./display_img/result.png)
+![Leader Board](./display_img/LeaderBoard.png)
+![Experiment Round](./display_img/ExperimentRound.png)
