@@ -18,3 +18,4 @@ Original Source: https://www.kaggle.com/datasets/lgmoneda/br-coins
   
   
 <img src="./display_images/CoinImages.png" alt="images">
+<img src="./display_images/LabelDistribution.png" alt="label">
