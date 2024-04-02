@@ -1,8 +1,8 @@
 ## Driverless AI
 
 Dataset: 
- - (Train) https://sample-data-open.s3.ap-northeast-1.amazonaws.com/cable_classification_15classes/cable_classify_15classes_DAI_Train.zip
-- (Test) https://sample-data-open.s3.ap-northeast-1.amazonaws.com/cable_classification_15classes/cable_classify_15classes_DAI_Test.zip
+ - (Train) https://sample-data-open.s3.ap-northeast-1.amazonaws.com/brazilian_coins/coin_regression_DAI_Train.zip
+- (Test) https://sample-data-open.s3.ap-northeast-1.amazonaws.com/brazilian_coins/coin_regression_DAI_Test.zip
 
 ***
 ### Auto Image Model
