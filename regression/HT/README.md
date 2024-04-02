@@ -1,7 +1,7 @@
 ## Hydrogen Torch
 
 Dataset: 
- - https://sample-data-open.s3.ap-northeast-1.amazonaws.com/cable_classification_15classes/cable_classify_15classes_HT.zip
+ - https://sample-data-open.s3.ap-northeast-1.amazonaws.com/brazilian_coins/coin_regression_HT.zip
 
 ***
 ### 結果
