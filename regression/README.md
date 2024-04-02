@@ -17,4 +17,4 @@ Original Source: https://www.kaggle.com/datasets/lgmoneda/br-coins
 [EDA](./EDA.ipynb)  
   
   
-<img src="./display_images/CoinImages.png.png" alt="images">
+<img src="./display_images/CoinImages.png" alt="images">
