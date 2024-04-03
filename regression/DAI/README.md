@@ -6,11 +6,11 @@ Dataset:
 
 ***
 ### Auto Image Model
-<img src="./display_images/AutoImage.png" alt="img1">
-<img src="./display_images/insight1.png" alt="img2">
-<img src="./display_images/insight2.png" alt="img3">
-<img src="./display_images/insight3.png" alt="img4">
-<img src="./display_images/insight4.png" alt="img5">
+<img src="./display_images/exp_end.png" alt="img1">
+<img src="./display_images/insights1.png" alt="img2">
+<img src="./display_images/insights2.png" alt="img3">
+<img src="./display_images/insights3.png" alt="img4">
+<img src="./display_images/insights4.png" alt="img5">
 
 | Metric      | Test Data Score  |
 |-------------|------------|
