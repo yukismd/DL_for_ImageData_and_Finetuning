@@ -12,28 +12,19 @@ Dataset:
 <img src="./display_images/insights3.png" alt="img4">
 <img src="./display_images/insights4.png" alt="img5">
 
-| Metric      | Test Data Score  |
-|-------------|------------|
-| ACCURACY    | 0.9677419  |
-| AUC         | 0.9989176  |
-| AUCPR       | 0.9913134  |
-| F05         | 0.9677419  |
-| F1          | 0.9677419  |
-| F2          | 0.9677419  |
-| FDR         | 0.03225806 |
-| FNR         | 0.03225806 |
-| FOR         | 0.002304147|
-| FPR         | 0.002304147|
-| GINI        | 0.9975294  |
-| LOGLOSS     | 0.1519496  |
-| MACROAUC    | 0.9987647  |
-| MACROF1     | 0.8505478  |
-| MACROMCC    | 0.8475272  |
-| MCC         | 0.9654378  |
-| NPV         | 0.9976959  |
-| PRECISION   | 0.9677419  |
-| RECALL      | 0.9677419  |
-| TNR         | 0.9976959  |
+| Metric   | Test Data Score |
+|----------|------------|
+| RMSE     | 1.380756   |
+| GINI     | 0.9998794  |
+| MAE      | 0.8594596  |
+| MAPE     | 1.916375   |
+| MER      | 1.038075   |
+| MSE      | 1.906488   |
+| R2COD    | 0.9990561  |
+| R2       | 0.9991063  |
+| RMSLE    | 0.03135071 |
+| RMSPE    | 3.722372   |
+| SMAPE    | 1.894473   |
 
 ***
 ### Image Vectorizer
