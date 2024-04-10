@@ -9,6 +9,9 @@ Dataset:
 
 #### Experiment Leaderboard
 ![Leader Board](./display_images/lb2.png)
+RMSE_Val, RMSE_Test: Final Epoch Model  
+RMSE_Test_BestEpoch: Best Epoch Model  
+
 
 #### Experiment Round
 ![Experiment Round](./display_images/er.png)
