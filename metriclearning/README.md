@@ -1,6 +1,6 @@
 # Multiclass Classification
 
-Original Source: https://competition.nishika.com/competitions/cable/summary
+Original Source: https://zheng-lab.cecs.anu.edu.au/Project/project_reid.html
   
 ケーブルコネクタ15種の分類
  - 画像サイズ： (H, W, C) = ([31, 1622], [69, 1512], 3)
