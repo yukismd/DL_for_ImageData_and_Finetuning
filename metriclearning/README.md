@@ -14,12 +14,12 @@ Original Source: https://zheng-lab.cecs.anu.edu.au/Project/project_reid.html
   
 ***
 
- - Driverless AIによる実施: [DAI dir](./DAI)
  - Hydrogen Torchによる実施: [HT dir](./HT)
  - PyTorchによる実施: [PT dir](./PT)
    
 ***
 
+[Data作成](./make_dataset.ipynb)  
 [EDA](./EDA.ipynb)  
   
   
