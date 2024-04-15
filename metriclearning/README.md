@@ -11,8 +11,6 @@ Original Source: https://zheng-lab.cecs.anu.edu.au/Project/project_reid.html
    - Small: market_metriclearning_HT.zip
      - 学習データ数：6,262、テストデータ数:721、合計:6,983
      - 全ラベル数:551、TrainにもTestにもあるラベル数:368、Trainにのみあるラベル数:163、Testのみにあるラベル数:20（368+163+20=551）
-
-<img src="./class_distribution.png" alt="classes">
   
 ***
 
