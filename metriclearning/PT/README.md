@@ -1,7 +1,7 @@
 ## PyTorch
 
 Dataset: 
- - https://sample-data-open.s3.ap-northeast-1.amazonaws.com/cable_classification_15classes/cable_classify_15classes_PT.zip
+ - https://sample-data-open.s3.ap-northeast-1.amazonaws.com/market-metriclearning/market_metriclearning_small_HT.zip
 
 ***
 ### Test on local (CPU)
