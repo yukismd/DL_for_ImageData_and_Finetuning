@@ -3,7 +3,7 @@
 Original Source: https://zheng-lab.cecs.anu.edu.au/Project/project_reid.html
   
 人物全身画像の距離学習
- - 画像サイズ（同サイズ）： (H, W, C) = (128, 4, 3)
+ - 画像サイズ（同サイズ）： (H, W, C) = (128, 64, 3)
  - データ数
    - Original: [market_metriclearning_small_HT.zip](https://sample-data-open.s3.ap-northeast-1.amazonaws.com/market-metriclearning/market_metriclearning_HT.zip)
      - 学習データ数：12,114、テストデータ数:1,356、合計:13,470
