@@ -10,5 +10,5 @@
 - バッチサイズも影響が考えられるが、32~256の範囲では一般的に大きな影響がないと考えられる。小さいとBatch Normalizationが安定しなくなる。学習環境のメモリ（GPU）に合う範囲で調整
 - 多くの実験を繰り返すため、比較的汎用的で小型のbackboneを選択し、比較的小さく画像サイズを設定し、学習環境のメモリ合わせてバッチサイズを固定。残りのハイパーパラメータ（学習率、エポック数、データ拡張）のチューニング間は固定。最終段階でモデルサイズと画像サイズのスケールアップを試みる。（スケールアップの際、学習率の再調整の必要あり）
 - BackbornはEfficientNetやResNetが汎用的で良い
-- 優先度の高いデータ拡張は、horizontal、Vertical、Transpose Flip（３つの斑点）。それらの次は、Shift、Scale、Rotate。HUE、Saturation、Random Noise、Blurなども試してみる価値あり。（データ拡張を多用している場合、エポック数が十分か確認）
+- 優先度の高いデータ拡張は、horizontal、Vertical、Transpose Flip（３つの反転）。それらの次は、Shift、Scale、Rotate。HUE、Saturation、Random Noise、Blurなども試してみる価値あり。（データ拡張を多用している場合、エポック数が十分か確認）
 
