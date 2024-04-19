@@ -1,0 +1,16 @@
+
+
+https://github.com/filipradenovic/cnnimageretrieval-pytorch/blob/master/cirtorch/utils/evaluate.py
+
+
+
+https://www.kaggle.com/datasets/qiubit/delg-baseline-roxfordparis-output/data
+https://www.kaggle.com/code/qiubit/baseline-model-evaluation
+
+
+https://www.kaggle.com/c/landmark-retrieval-2020/overview
+
+
+https://www.kaggle.com/code/sudeepshouche/map-calculation-use
+
+
