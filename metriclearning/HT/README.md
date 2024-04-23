@@ -8,7 +8,7 @@ Dataset:
 結果：[Experiments.xlsx](./Experiments.xlsx)
 
 #### Experiment Leaderboard
-![Leader Board](./display_imgs/leaderboard.png)
+![Leader Board](./display_img/leaderboard.png)
 
 #### Experiment Round
-![Experiment Round](./display_imgs/expround.png)
+![Experiment Round](./display_img/expround.png)
