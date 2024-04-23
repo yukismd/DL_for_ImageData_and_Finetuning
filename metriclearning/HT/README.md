@@ -16,6 +16,6 @@ Dataset:
 ***
 
 ### Hydrogen TorchでPredictionの実施後にダウンロードできる予測結果
-データとNotebook: [Predictions](./Predictions)
+データとNotebook: [Predictions](./Predictions)  
 ファイルの中身: [Predictions/HT_prediction_result.ipynb](./Predictions/HT_prediction_result.ipynb)
 
