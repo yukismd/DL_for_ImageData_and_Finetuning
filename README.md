@@ -8,7 +8,7 @@
   
 
 ## Other
- - [augmentation](./augmentation) - データ拡張に関して
+ - [augmentation](./augmentation) - 画像のデータ拡張に関して
  - [models](./models) - 事前学習モデルに関して
 
 
