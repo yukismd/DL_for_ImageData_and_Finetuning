@@ -15,7 +15,11 @@ Original Source: https://zheng-lab.cecs.anu.edu.au/Project/project_reid.html
 ***
 
  - Hydrogen Torchによる実施: [HT dir](./HT)
+   - 距離学習モデルの作成とチューニング
+   - 予測結果データ 
  - PyTorchによる実施: [PT dir](./PT)
+   - 学習済みモデルのGlobal Pooling層の出力を検索ベクトルとして利用した場合
+   - ArcFace Loss関数を用いたモデル学習
    
 ***
 
