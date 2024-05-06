@@ -2,6 +2,7 @@
 DriverlessAI Text Vectorizationアプローチ（テキストにトークン化を実施。そのトークン化テキストのみを用いDriverlessAIデフォルトで予測を実施（TFIDFが適用され、正則化回帰や、次元削減が行われる））。  
 ドキュメント: https://docs.h2o.ai/driverless-ai/1-10-lts/docs/userguide/nlp.html
 
+***
 ### Experiments Result
 - トークン化をJanome（単語単位の形態素解析）とtohoku-nlp/bert-base-japanese-whole-word-masking（WordPiece）の２種類で実施。各5回同じ設定でExperimentを作成し、精度を検証
   
@@ -21,3 +22,12 @@ DriverlessAI Text Vectorizationアプローチ（テキストにトークン化�
 hatespeech_vec_janomeの平均(F1 - Test): 0.502  
 hatespeech_vec_tohokuBertBase平均(F1 - Test): 0.5662  
 (t-test p-value=0.0136 有意)
+
+***
+### Tokenizerの影響
+![tokenizerEffect](./display_img/tokenizerEffect.png)
+- WordPiece(BERT)の方が、形態素解析に対して細かく分割される
+- 結果、WordPieceはユニークトークンにすると少なくなる
+- WordPieceの方が、片方のデータのみに出現するトークンが少ない（テストデータに出現する、学習データになかった単語の出現を抑えることができる）
+
+  
