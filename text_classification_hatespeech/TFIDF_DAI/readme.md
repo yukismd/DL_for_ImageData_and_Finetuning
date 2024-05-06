@@ -21,7 +21,7 @@ DriverlessAI Text Vectorizationアプローチ（テキストにトークン化�
   
 hatespeech_vec_janomeの平均(F1 - Test): 0.502  
 hatespeech_vec_tohokuBertBase平均(F1 - Test): 0.5662  
-(t-test p-value=0.0136 有意)
+(t-test p-value=0.0136 hatespeech_vec_tohokuBertBaseの方が有意に精度が高い)
 
 ***
 ### Tokenizerの影響
