@@ -1,7 +1,7 @@
 ## 学習済みモデルから作成した特徴量で、AutoML（Driverless AI）で予測
 
 ### アプローチ
-Notebook: (create_features_sentiment_and_zeroshot.ipynb)[https://github.com/yukismd/DL_for_ImageData_and_Finetuning/blob/main/text_classification_hatespeech/TrainedModel_for_FeatureCreation/create_features_sentiment_and_zeroshot.ipynb]
+Notebook: [create_features_sentiment_and_zeroshot.ipynb](https://github.com/yukismd/DL_for_ImageData_and_Finetuning/blob/main/text_classification_hatespeech/TrainedModel_for_FeatureCreation/create_features_sentiment_and_zeroshot.ipynb)
 
 #### 学習済みセンチメントモデル
 - (lxyuan/distilbert-base-multilingual-cased-sentiments-student)[https://huggingface.co/lxyuan/distilbert-base-multilingual-cased-sentiments-student]
