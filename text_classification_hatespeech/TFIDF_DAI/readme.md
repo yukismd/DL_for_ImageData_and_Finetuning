@@ -24,6 +24,11 @@ hatespeech_vec_tohokuBertBase平均(F1 - Test): 0.5662
 (t-test p-value=0.0136  ->  hatespeech_vec_tohokuBertBaseの方が有意に精度が高い)
 
 ***
+### Data Sets
+- Train: https://sample-data-open.s3.ap-northeast-1.amazonaws.com/text_classification_hatespeech/hatespeech_train_DAI.csv
+- Test: https://sample-data-open.s3.ap-northeast-1.amazonaws.com/text_classification_hatespeech/hatespeech_test_DAI.csv
+  
+***
 ### Tokenizerの影響
 ![tokenizerEffect](./display_img/tokenizerEffect.png)
 - WordPiece(BERT)の方が、形態素解析に対して細かく分割される
