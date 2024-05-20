@@ -30,6 +30,7 @@ hatespeech_vec_tohokuBertBase平均(F1 - Test): 0.5662
   
 ***
 ### Tokenizerの影響
+結果：ExpResults.xlsx
 ![tokenizerEffect](./display_img/tokenizerEffect.png)
 - WordPiece(BERT)の方が、形態素解析に対して細かく分割される
 - 結果、WordPieceはユニークトークンにすると少なくなる
