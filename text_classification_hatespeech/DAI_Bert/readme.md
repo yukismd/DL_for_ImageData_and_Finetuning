@@ -29,7 +29,7 @@ See "PyTorch Transformer Archtecture Models (eg. BERT) as Modeling Algorithms" p
     - [Janome](https://mocobeta.github.io/janome/)
 
 ***
-### Data Sets 
+### Datasets 
 - Train: https://sample-data-open.s3.ap-northeast-1.amazonaws.com/text_classification_hatespeech/hatespeech_train_DAI.csv
 - Test: https://sample-data-open.s3.ap-northeast-1.amazonaws.com/text_classification_hatespeech/hatespeech_test_DAI.csv
 
