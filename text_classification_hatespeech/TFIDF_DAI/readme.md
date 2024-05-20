@@ -24,7 +24,7 @@ hatespeech_vec_tohokuBertBase平均(F1 - Test): 0.5662
 (t-test p-value=0.0136  ->  hatespeech_vec_tohokuBertBaseの方が有意に精度が高い)
 
 ***
-### Data Sets (上記二種のトークン化実施済)
+### Datasets (上記二種のトークン化実施済)
 - Train: https://sample-data-open.s3.ap-northeast-1.amazonaws.com/text_classification_hatespeech/hatespeech_train_DAI.csv
 - Test: https://sample-data-open.s3.ap-northeast-1.amazonaws.com/text_classification_hatespeech/hatespeech_test_DAI.csv
   
