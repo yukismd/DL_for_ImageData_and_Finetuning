@@ -6,11 +6,13 @@ Notebook: [create_features_sentiment_and_zeroshot.ipynb](https://github.com/yuki
 #### 学習済みセンチメントモデル
 - [lxyuan/distilbert-base-multilingual-cased-sentiments-student](https://huggingface.co/lxyuan/distilbert-base-multilingual-cased-sentiments-student)
 - [jarvisx17/japanese-sentiment-analysis](https://huggingface.co/jarvisx17/japanese-sentiment-analysis)
-上記２モデルのnegative scoreを利用
+  
+上記２モデルのnegative scoreを利用  
 データへは"negative1","negative2"カラムとして保存
 
 #### Text Zero-Shot Classification modelの利用
 - [MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7](https://huggingface.co/MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7)
+  
 "悪意","嫌悪","差別"をZero-shot判定  
 データへは"malice","hate","discrimination"カラムとして保存
 
