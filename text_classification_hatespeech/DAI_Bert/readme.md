@@ -5,6 +5,8 @@ See "PyTorch Transformer Archtecture Models (eg. BERT) as Modeling Algorithms" p
   
 ***
 ### 結果
+結果: [expResults.xlsx](expResults.xlsx) 
+  
 | No. | Experiment Name                                    | Pipeline Visualization     | Model                           | Tokenizer                                                       | F1 - Test  |
 |-----|----------------------------------------------------|----------------------------|---------------------------------|-----------------------------------------------------------------|------------|
 | 1   | nlpauto-textCol-BertBaseMultilingualCased          | TextMultilingualBERTModel  | bert-base-multilingual-cased    | None                                                            | 0.3170732  |
