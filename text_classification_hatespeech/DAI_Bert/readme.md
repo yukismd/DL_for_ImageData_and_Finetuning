@@ -27,6 +27,8 @@ See "PyTorch Transformer Archtecture Models (eg. BERT) as Modeling Algorithms" p
     - None: トークン化なし
     - [tohoku-nlp/bert-base-japanese-whole-word-masking](https://huggingface.co/tohoku-nlp/bert-base-japanese-whole-word-masking)
     - [Janome](https://mocobeta.github.io/janome/)
+  
+検証したモデルはほほ機能せず。他のモデルでの検証が必要。
 
 ***
 ### Datasets 
