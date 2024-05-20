@@ -18,7 +18,7 @@ Notebook: [create_features_sentiment_and_zeroshot.ipynb](https://github.com/yuki
 
 ***
 ### Data Sets
-上記３モデルによる出力（"negative1","negative2","malice","hate","discrimination"）と[tohoku-nlp/bert-base-japanese-whole-word-masking](https://huggingface.co/tohoku-nlp/bert-base-japanese-whole-word-masking)によるトークン化済みテキストカラム（"text_token_tohokuBertBase"）  
+上記３モデルによる出力（"negative1","negative2","malice","hate","discrimination"）と[tohoku-nlp/bert-base-japanese-whole-word-masking](https://huggingface.co/tohoku-nlp/bert-base-japanese-whole-word-masking)によるトークン化済みテキストカラム（"text_token_tohokuBertBase"）  を付与
 Train: https://sample-data-open.s3.ap-northeast-1.amazonaws.com/text_classification_hatespeech/hatespeech_train_zeroshots_tkn.csv  
 Test: https://sample-data-open.s3.ap-northeast-1.amazonaws.com/text_classification_hatespeech/hatespeech_test_zeroshots_tkn.csv
   
