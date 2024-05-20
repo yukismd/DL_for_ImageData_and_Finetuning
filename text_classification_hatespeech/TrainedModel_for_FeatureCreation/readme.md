@@ -24,4 +24,8 @@ Test: https://sample-data-open.s3.ap-northeast-1.amazonaws.com/text_classificati
   
 ***
 ### 結果
-結果：[expResults.xlsx](expResults.xlsx)
+結果：[expResults.xlsx](expResults.xlsx)  
+| No. | Experiment Name          | Features                                           | Description                                | F1 - Valid | F1 - Test  | Training Time |
+|-----|--------------------------|----------------------------------------------------|--------------------------------------------|------------|------------|---------------|
+| 1   | hatespeech_zeroshot      | negative1, negative2, discrimination, hate, malice | 事前学習モデル特徴量のみで学習             | 0.3449508  | 0.3606557  | 0:04:27       |
+| 2   | hatespeech_zeroshot_tkn  | 1 + text_token_tohokuBertBase                      | 事前学習モデル特徴量 + 元テキストのTFIDF | 0.6210991  | 0.5797101  | 0:15:07       |
