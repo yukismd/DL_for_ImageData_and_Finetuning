@@ -1,4 +1,4 @@
-## TFIDF
+## TFIDF by Driverless AI
 DriverlessAI Text Vectorizationアプローチ（テキストにトークン化を実施。そのトークン化テキストのみを用いDriverlessAIデフォルト設定で予測を実施（TFIDFが適用され、正則化回帰や、次元削減が行われる））。  
 ドキュメント: https://docs.h2o.ai/driverless-ai/1-10-lts/docs/userguide/nlp.html
 
