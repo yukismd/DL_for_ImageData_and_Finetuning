@@ -28,4 +28,9 @@ See "PyTorch Transformer Archtecture Models (eg. BERT) as Modeling Algorithms" p
     - [tohoku-nlp/bert-base-japanese-whole-word-masking](https://huggingface.co/tohoku-nlp/bert-base-japanese-whole-word-masking)
     - [Janome](https://mocobeta.github.io/janome/)
 
+***
+### Data Sets 
+- Train: https://sample-data-open.s3.ap-northeast-1.amazonaws.com/text_classification_hatespeech/hatespeech_train_DAI.csv
+- Test: https://sample-data-open.s3.ap-northeast-1.amazonaws.com/text_classification_hatespeech/hatespeech_test_DAI.csv
 
+  
