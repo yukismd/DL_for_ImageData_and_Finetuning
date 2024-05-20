@@ -20,5 +20,12 @@ See "PyTorch Transformer Archtecture Models (eg. BERT) as Modeling Algorithms" p
 | 9   | nlpauto-janomeCol                                  | TextBERTModel              | bert-base-uncased               | Janome                                                          | 0.475      |
 | 10  | nlpauto-janomeCol-XlmRobertaBase                   | TextXLMRobertaModel        | xlm-roberta-base                | Janome                                                          | 0.1167109  |
 
+- Experiment Name: Driverless AI Experiment name
+- Pipeline Visualization: Driverless AI Experiment result display name
+- Model: Model pulled from Huggingface
+- Tokenizer: トークン化の実施 - 仕様が不明だったため、トークン化したテキストでも検証。仕様は現時点で不明
+    - None: トークン化なし
+    - [tohoku-nlp/bert-base-japanese-whole-word-masking](https://huggingface.co/tohoku-nlp/bert-base-japanese-whole-word-masking)
+    - [Janome](https://mocobeta.github.io/janome/)
 
 
