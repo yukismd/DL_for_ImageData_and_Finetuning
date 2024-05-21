@@ -11,7 +11,7 @@
 | Accuracy   | 0.832                          | 0.71                                 | 0.877                  |
   
 Notebook:
-- NousResearch/Nous-Capybara-34Bによる実施：[Mistral-8x7B.ipynb](Mistral-8x7B.ipynb)
-- mistralai/Mixtral-8x7B-Instruct-v0.1による実施：[Nous-Capybara-34B.ipynb](Nous-Capybara-34B.ipynb)
+- NousResearch/Nous-Capybara-34Bによる実施：[Nous-Capybara-34B.ipynb](Nous-Capybara-34B.ipynb)
+- mistralai/Mixtral-8x7B-Instruct-v0.1による実施：[Mistral-8x7B.ipynb](Mistral-8x7B.ipynb)
 - gpt-4-turbo-2024-04-09による実施：[gpt-4-turbo-2024-04-09.ipynb](gpt-4-turbo-2024-04-09.ipynb)
   
