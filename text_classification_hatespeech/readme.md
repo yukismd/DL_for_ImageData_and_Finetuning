@@ -15,7 +15,10 @@
 | 合計  | 5256 | 4656       | 600       |
 | % of 1 | 5.8% | 5.8%       | 5.8%      |
   
-
+***
+### EDA
+[EDA.ipynb](EDA.ipynb)
+  
 ***
 ### Experiments
 - AutoMLによるTFIDFアプローチ ([TFIDF_DAI](./TFIDF_DAI))
