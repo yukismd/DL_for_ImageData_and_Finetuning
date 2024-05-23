@@ -13,8 +13,11 @@
 - 優先度の高いデータ拡張は、horizontal、Vertical、Transpose Flip（３つの反転）。それらの次は、Shift、Scale、Rotate。HUE、Saturation、Random Noise、Blurなども試してみる価値あり。（データ拡張を多用している場合、エポック数が十分か確認）
 
 ### テキスト分類/回帰 - Kaggleに挑む深層学習プログラミングの極意（講談社）
+- BERTの他によく使われるBERT系アーキテクチャ [p.177]
+    - RoBERTa
+    - ELECTRA
+    - DeBERTa
 - BERTでよく持ちいられるOptimizerはAdamW [p.183]
-    - Backbone
 - バッチサイズ、学習率、エポック数の影響は大きい。以下の範囲での探索を実施する場合が多い [p.184]
     - バッチサイズ: 16,32
     - 学習率: 5e-05,3e-05,2e-5
@@ -22,5 +25,7 @@
 - 自動混合精度（Automatic Mixed Precision）を用いることにより、学習の高速化が可能 [p.186]
 - バッチサイズが小さくなってしまう場合は、学習を安定させるために勾配累積（Gradient Accumulation）が有用 [p.188]
 - ファインチューニングの不安定性とその対処に関して - [Revisiting Few-sample BERT Fine-tuning](https://arxiv.org/abs/2006.05987) [p.193]
-
+- 取り組むタスクに似たタスクで事前学習が実施された事前学習モデルを選択すると良い [p.196]
+- テキストの入力方法の工夫 [p.197]
+- 外部データの活用 [p.197]
 
