@@ -165,3 +165,4 @@ tmp
 
 # Mac用
 .DS_Store
+.Rproj.user
