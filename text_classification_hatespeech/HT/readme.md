@@ -17,6 +17,8 @@ Test: https://sample-data-open.s3.ap-northeast-1.amazonaws.com/text_classificati
 - lxyuan/distilbert-base-multilingual-cased-sentiments-student
 - papluca/xlm-roberta-base-language-detection
 
+モデルに関して:[models](https://github.com/yukismd/DL_for_ImageData_and_Finetuning/tree/main/models)
+  
 ***
 ### 結果
 結果: [Experiments.xlsx](Experiments.xlsx)
