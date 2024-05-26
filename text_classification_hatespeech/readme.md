@@ -22,6 +22,7 @@
 ***
 ### Experiments
 - AutoMLによるTFIDFアプローチ ([TFIDF_DAI](./TFIDF_DAI))
-- DAI BERT実装 ([DAI_Bert](./DAI_Bert))
 - 学習済みモデルから作成した特徴量を利用 ([TrainedModel_for_FeatureCreation](./TrainedModel_for_FeatureCreation))
 - 生成AIによる判定 ([LLM](./LLM))
+- DAI BERT実装 ([DAI_Bert](./DAI_Bert))
+- HT BERTモデル ([HT](./HT))
