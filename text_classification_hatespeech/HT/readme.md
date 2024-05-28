@@ -39,6 +39,7 @@ Test: https://sample-data-open.s3.ap-northeast-1.amazonaws.com/text_classificati
 - F1 Test (Best閾値): 0.71242
 
 #### 予測結果付与 Dataset
+Train: https://sample-data-open.s3.ap-northeast-1.amazonaws.com/text_classification_hatespeech/hatespeech_train_HT_res.csv  
 Test: https://sample-data-open.s3.ap-northeast-1.amazonaws.com/text_classification_hatespeech/hatespeech_test_HT_res.csv
 
   
