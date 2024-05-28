@@ -37,3 +37,8 @@ Test: https://sample-data-open.s3.ap-northeast-1.amazonaws.com/text_classificati
 最終行は平均値
 - F1 Test (閾値=0.5): 0.66426
 - F1 Test (Best閾値): 0.71242
+
+### 予測結果付与 Dataset
+Test: https://sample-data-open.s3.ap-northeast-1.amazonaws.com/text_classification_hatespeech/hatespeech_test_HT_res.csv
+
+  
