@@ -24,6 +24,8 @@ Test: https://sample-data-open.s3.ap-northeast-1.amazonaws.com/text_classificati
 | 32         | 128          | tohoku-nlp/bert-large-japanese-v2     | 0.00003 | 3     | 0.629213483     | 0.705882353      |
 | 32         | 128          | tohoku-nlp/bert-large-japanese-v2     | 0.00005 | 3     | 0.640776699     | 0.675675676      |
 |            |              |                                       |         |       | 0.642898031     | 0.678582219      |
+最終行は平均値
+
 
 #### モデル: studio-ousia/luke-japanese-large-lite  
 | Batch_Size | Token_Length | Backborn                              | LR      | Epoch | F1 Val (th=0.5) | F1_Test (th=0.5) |
@@ -37,3 +39,4 @@ Test: https://sample-data-open.s3.ap-northeast-1.amazonaws.com/text_classificati
 | 32         | 128          | studio-ousia/luke-japanese-large-lite | 0.00001 | 3     | 0.712871287     | 0.638888889      |
 | 32         | 128          | studio-ousia/luke-japanese-large-lite | 0.00003 | 3     | 0.711538462     | 0.712328767      |
 |            |              |                                       |         |       | 0.718313642     | 0.66689337       |
+最終行は平均値
