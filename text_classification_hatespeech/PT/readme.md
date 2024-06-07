@@ -46,7 +46,7 @@ Test: https://sample-data-open.s3.ap-northeast-1.amazonaws.com/text_classificati
   
 最終行は平均値  
 - F1 Test (閾値=0.5): 0.66689337
-
+  
 
 両方のモデルともF1の閾値は0.5のみだが[HTでの結果](https://github.com/yukismd/DL_for_ImageData_and_Finetuning/tree/main/text_classification_hatespeech/HT)から、Best閾値を考慮すると0.7は超えると考えられる。
 
