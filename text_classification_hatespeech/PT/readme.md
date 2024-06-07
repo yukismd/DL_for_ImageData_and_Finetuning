@@ -12,7 +12,8 @@ Test: https://sample-data-open.s3.ap-northeast-1.amazonaws.com/text_classificati
   
 ***
 ### 結果
-結果: [Experiments_pt.xlsx](Experiments_pt.xlsx)
+結果: [Experiments_pt.xlsx](Experiments_pt.xlsx)  
+以下、精度の良かった2モデルのみ表示  
 
 #### モデル： tohoku-nlp/bert-large-japanese-v2  
 上位3位の設定（上3行）を繰り返し実施(下３行)
