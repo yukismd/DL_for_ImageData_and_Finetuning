@@ -15,6 +15,7 @@ Test: https://sample-data-open.s3.ap-northeast-1.amazonaws.com/text_classificati
 結果: [Experiments_pt.xlsx](Experiments_pt.xlsx)
 
 #### モデル： tohoku-nlp/bert-large-japanese-v2  
+上位3位の設定（上3行）を繰り返し実施(下３行)
 | Batch_Size | Token_Length | Backborn                              | LR      | Epoch | F1 Val (th=0.5) | F1_Test (th=0.5) |
 |------------|--------------|---------------------------------------|---------|-------|-----------------|------------------|
 | 32         | 128          | tohoku-nlp/bert-large-japanese-v2     | 0.00001 | 3     | 0.607843137     | 0.666666667      |
@@ -26,9 +27,10 @@ Test: https://sample-data-open.s3.ap-northeast-1.amazonaws.com/text_classificati
 |            |              |                                       |         |       | 0.642898031     | 0.678582219      |
   
 最終行は平均値  
-上位3位の設定（上3行）を繰り返し実施(下３行)  
+- F1 Test (閾値=0.5): 0.678582219
 
 #### モデル: studio-ousia/luke-japanese-large-lite  
+上位4位の設定（上4行）を繰り返し実施(下4行)  
 | Batch_Size | Token_Length | Backborn                              | LR      | Epoch | F1 Val (th=0.5) | F1_Test (th=0.5) |
 |------------|--------------|---------------------------------------|---------|-------|-----------------|------------------|
 | 16         | 128          | studio-ousia/luke-japanese-large-lite | 0.00001 | 3     | 0.787878788     | 0.712328767      |
@@ -42,6 +44,6 @@ Test: https://sample-data-open.s3.ap-northeast-1.amazonaws.com/text_classificati
 |            |              |                                       |         |       | 0.718313642     | 0.66689337       |
   
 最終行は平均値  
-上位4位の設定（上4行）を繰り返し実施(下4行)  
+- F1 Test (閾値=0.5): 0.66689337
 
   
