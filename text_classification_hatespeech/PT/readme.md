@@ -25,7 +25,7 @@ Test: https://sample-data-open.s3.ap-northeast-1.amazonaws.com/text_classificati
 | 32         | 128          | tohoku-nlp/bert-large-japanese-v2     | 0.00005 | 3     | 0.640776699     | 0.675675676      |
 |            |              |                                       |         |       | 0.642898031     | 0.678582219      |
   
-最終行は平均値
+最終行は平均値  
 上位3位の設定（上3行）を繰り返し実施(下３行)  
 
 #### モデル: studio-ousia/luke-japanese-large-lite  
@@ -41,7 +41,7 @@ Test: https://sample-data-open.s3.ap-northeast-1.amazonaws.com/text_classificati
 | 32         | 128          | studio-ousia/luke-japanese-large-lite | 0.00003 | 3     | 0.711538462     | 0.712328767      |
 |            |              |                                       |         |       | 0.718313642     | 0.66689337       |
   
-最終行は平均値
+最終行は平均値  
 上位4位の設定（上4行）を繰り返し実施(下4行)  
 
   
