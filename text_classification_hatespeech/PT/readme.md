@@ -14,7 +14,7 @@ Test: https://sample-data-open.s3.ap-northeast-1.amazonaws.com/text_classificati
 ### 結果
 結果: [Experiments_pt.xlsx](Experiments_pt.xlsx)
 
-##### モデル： tohoku-nlp/bert-large-japanese-v2  
+#### モデル： tohoku-nlp/bert-large-japanese-v2  
 | Batch_Size | Token_Length | Backborn                              | LR      | Epoch | F1 Val (th=0.5) | F1_Test (th=0.5) |
 |------------|--------------|---------------------------------------|---------|-------|-----------------|------------------|
 | 32         | 128          | tohoku-nlp/bert-large-japanese-v2     | 0.00001 | 3     | 0.607843137     | 0.666666667      |
@@ -25,7 +25,7 @@ Test: https://sample-data-open.s3.ap-northeast-1.amazonaws.com/text_classificati
 | 32         | 128          | tohoku-nlp/bert-large-japanese-v2     | 0.00005 | 3     | 0.640776699     | 0.675675676      |
 |            |              |                                       |         |       | 0.642898031     | 0.678582219      |
 
-モデル: studio-ousia/luke-japanese-large-lite  
+#### モデル: studio-ousia/luke-japanese-large-lite  
 | Batch_Size | Token_Length | Backborn                              | LR      | Epoch | F1 Val (th=0.5) | F1_Test (th=0.5) |
 |------------|--------------|---------------------------------------|---------|-------|-----------------|------------------|
 | 16         | 128          | studio-ousia/luke-japanese-large-lite | 0.00001 | 3     | 0.787878788     | 0.712328767      |
