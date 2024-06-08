@@ -27,7 +27,7 @@ Dataset:
 | SMAPE    | 1.894473   |
 
 ***
-### Image Vectorizer
+### Image Vectorizer (特徴量抽出器)
 <img src="./display_images/dai.png" alt="dai">
 
 | Metric                     | Validation Data Score | Test Data Score |
