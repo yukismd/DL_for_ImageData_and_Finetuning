@@ -36,7 +36,7 @@ Dataset:
 | TNR         | 0.9976959  |
 
 ***
-### Image Vectorizer
+### Image Vectorizer (特徴量抽出器)
 <img src="./display_images/Vectorizer.png" alt="img2">
 
 | Metric     | Validation Data Score | Test Data Score |
