@@ -6,7 +6,7 @@ Dataset:
 
 ***
 ### 結果
-| Metric     | Auto Model | Vectorizer (特徴量抽出器) Validation Data Score | Vectorizer (特徴量抽出器) Test Data Score | Vectorizer (Fine Tuning) Validation Data Score | Vectorizer (Fine Tuning) Test Data Score |
+| Metric     | Auto Model - Test Data Score | Vectorizer (特徴量抽出器) - Validation Data Score | Vectorizer (特徴量抽出器) - Test Data Score | Vectorizer (Fine Tuning) - Validation Data Score | Vectorizer (Fine Tuning) - Test Data Score |
 |------------|-------------|--------------------------------------------------|-------------------------------------------|------------------------------------------------|-----------------------------------------|
 | ACCURACY   | 0.9637097   | 0.7211707                                       | 0.7580645                                 | 0.9417213                                      | 0.9556452                               |
 | AUC        | 0.9994077   | 0.9696441                                       | 0.9750492                                 | 0.9972223                                      | 0.9996284                               |
