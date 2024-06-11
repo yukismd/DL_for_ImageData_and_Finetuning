@@ -6,7 +6,7 @@ Dataset:
 
 ***
 ### Auto Image Model
-<img src="./display_images/AutoImage.png" alt="img1">
+<img src="./display_images/automodel.png" alt="img1">
 <img src="./display_images/insight1.png" alt="img2">
 <img src="./display_images/insight2.png" alt="img3">
 <img src="./display_images/insight3.png" alt="img4">
@@ -37,7 +37,7 @@ Dataset:
 
 ***
 ### Image Vectorizer (特徴量抽出器)
-<img src="./display_images/Vectorizer.png" alt="img2">
+<img src="./display_images/vec.png" alt="img10">
 
 | Metric     | Validation Data Score | Test Data Score |
 |------------|-----------------------|-----------------|
@@ -62,3 +62,6 @@ Dataset:
 | RECALL     | 0.7434723             | 0.7298387       |
 | TNR        | 0.9823393             | 0.9861751       |
 
+***
+### Image Vectorizer (Fine Tuning)
+<img src="./display_images/vec_finetune.png" alt="img10">
