@@ -28,6 +28,7 @@ Dataset:
 
 ***
 ### Auto Image Model
+学習時間: 4時間20分
 <img src="./display_images/automodel.png" alt="img1">
 <img src="./display_images/insights1.png" alt="img2">
 <img src="./display_images/insights2.png" alt="img3">
@@ -36,9 +37,11 @@ Dataset:
 
 ***
 ### Image Vectorizer (特徴量抽出器)
+学習時間: 1時間24分
 <img src="./display_images/vec.png" alt="img10">
   
 ***
 ### Image Vectorizer (Fine Tuning)
+学習時間: 5時間4分
 <img src="./display_images/vec_ft.png" alt="img10">
 
