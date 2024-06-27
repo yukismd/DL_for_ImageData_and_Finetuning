@@ -17,8 +17,8 @@ Document - [Experiment settings: Image regression](https://docs.h2o.ai/h2o-hydro
 ***
 ## Driverless AI/Hydrogen Torch - Text Classification/Regression Backbones
 
-Driverless AI Document - [NLP in Driverless AI](https://docs.h2o.ai/driverless-ai/1-10-lts/docs/userguide/nlp.html)
+Driverless AI Document - [NLP in Driverless AI](https://docs.h2o.ai/driverless-ai/1-10-lts/docs/userguide/nlp.html)  
 Hydrogen Torch Document - [Experiment settings: Text classification](https://docs.h2o.ai/h2o-hydrogen-torch/guide/experiments/experiment-settings/text-classification)  
 Hydrogen Torch Document - [Experiment settings: Text regression](https://docs.h2o.ai/h2o-hydrogen-torch/guide/experiments/experiment-settings/text-regression)
-
+  
 詳細＆DL：[text_models.xlsx](./text_models.xlsx)
