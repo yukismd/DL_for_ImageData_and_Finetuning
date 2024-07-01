@@ -14,6 +14,7 @@
 学習データ
  - DL: https://jp-public.s3.ap-southeast-1.amazonaws.com/data/Cifar10_sample/cifar10_sample_DAI_train.zip
  - S3 URL: s3://jp-public/data/Cifar10_sample/cifar10_sample_DAI_train.zip
+  
 テストデータ
  - DL: https://jp-public.s3.ap-southeast-1.amazonaws.com/data/Cifar10_sample/cifar10_sample_DAI_test.zip
  - S3 URL: s3://jp-public/data/Cifar10_sample/cifar10_sample_DAI_test.zip
