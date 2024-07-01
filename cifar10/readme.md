@@ -18,6 +18,9 @@
 テストデータ
  - DL: https://jp-public.s3.ap-southeast-1.amazonaws.com/data/Cifar10_sample/cifar10_sample_DAI_test.zip
  - S3 URL: s3://jp-public/data/Cifar10_sample/cifar10_sample_DAI_test.zip
+
+結果： https://github.com/yukismd/DL_for_ImageData_and_Finetuning/blob/main/cifar10/Experiments_DAI.xlsx
+
   
 ***
 ## Hydrogen Torch
@@ -27,3 +30,5 @@
 
 （同zipファイル内に学習とテスト両データを同封）
 
+結果: https://github.com/yukismd/DL_for_ImageData_and_Finetuning/blob/main/cifar10/Experiments_HT.xlsx
+  
