@@ -27,6 +27,7 @@
 | 32         | 128          | rinna/japanese-gpt-neox-3.6b-instruction-ppo | 0.0001| 2     | 0.9893   | 0.753623188 | 0:11:21 |
 | 32         | 128          | rinna/japanese-gpt-neox-3.6b-instruction-ppo | 0.0005| 2     | 0.9898   | 0.73015873  | 0:11:22 |
 
+- Epoch=2の平均値： 0.74358
   
 ***
 ### Published Model
