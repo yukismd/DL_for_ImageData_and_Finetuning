@@ -29,7 +29,17 @@
 6. 生成AI Finetuning : [LlmStudio](./LlmStudio)
 
 ***
-### Results
+### Results サマリー
 
-to do
+| Approach                                                                 | TestデータにおけるF1値                                                         |
+|--------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| 1 AutoML（DAI）によるTFIDFアプローチ                                      | 5回の試行。平均値が0.5662。最大値が0.597                                      |
+| 2 学習済みモデル（感情分析、Zero-shot Text Classification）から特徴量を作成し、AutoML（DAI）で予測するアプローチ | Zero-shot特徴量のみで0.3606557。それに1のアプローチを加えて0.5797101         |
+| 3 生成AIによるヘイトスピーチ判定                                          | GPT4で0.471                                                                    |
+| 4 DAI BERT実装                                                            | bert-base-uncasedで0.475                                                      |
+| 5 HT BERTモデル Finetuning                                                | microsoft-deberta-v3-largeで5回試行。平均値が0.71242。最大値が0.7761          |
+| 6 生成AI Finetuning                                                       | rinna/japanese-gpt-neox-3.6b-instruction-ppoのEpoch=2の平均値が0.74358。最大値が0.76923 |
+
+詳細は各フォルダ内参照
+
 
