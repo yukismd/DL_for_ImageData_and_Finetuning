@@ -6,7 +6,7 @@ DriverlessAI Text Vectorizationアプローチ（テキストにトークン化�
 ### Experiments Result
 - トークン化を[Janome](https://mocobeta.github.io/janome/)（単語単位の形態素解析）と[tohoku-nlp/bert-base-japanese-whole-word-masking](https://huggingface.co/tohoku-nlp/bert-base-japanese-whole-word-masking)（WordPiece）の２種類で実施。各5回同じ設定でExperimentを作成し、精度を検証
   
-| Experiment Name                  | Tokenizer          | F1 - Validation | F1 - Test | Time   |
+| Experiment Name                  | Tokenizer          | F1 - Validation (Best閾値) | F1 - Test (Best閾値) | Time   |
 |----------------------------------|--------------------|-----------------|-----------|--------|
 | 1.hatespeech_vec_janome            | Janome             | 0.539           | 0.457     | 0:20:36|
 | 2.hatespeech_vec_janome            | Janome             | 0.586           | 0.557     | 0:23:39|
