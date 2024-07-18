@@ -7,6 +7,11 @@
 - LLMを用いたテキスト分類に関する参考サイト - [LLMとLoRAを用いたテキスト分類](https://github.com/hppRC/llm-lora-classification)
 
 ***
+### 試したベースモデル
+- [rinna/japanese-gpt-neox-3.6b-instruction-ppo](https://huggingface.co/rinna/japanese-gpt-neox-3.6b-instruction-ppo)
+- [cyberagent/calm2-7b-chat](https://huggingface.co/cyberagent/calm2-7b-chat)
+  
+***
 ### 結果
 結果: [Experiments_llmstudio.xlsx](Experiments_llmstudio.xlsx)
 
