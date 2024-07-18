@@ -7,6 +7,10 @@
 - LLMを用いたテキスト分類に関する参考サイト - [LLMとLoRAを用いたテキスト分類](https://github.com/hppRC/llm-lora-classification)
 
 ***
+### 結果
+結果: [Experiments_llmstudio.xlsx](Experiments_llmstudio.xlsx)
+
+***
 ### Published Model
 Experiment Name: HS-Rinna_Epoch2 (pushed to Hugging Face)  
 [yukismd/HateSpeechClassification-japanese-gpt-neox-3-6b-instruction-ppo](https://huggingface.co/yukismd/HateSpeechClassification-japanese-gpt-neox-3-6b-instruction-ppo)
