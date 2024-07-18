@@ -23,7 +23,7 @@ Test: https://sample-data-open.s3.ap-northeast-1.amazonaws.com/text_classificati
 ### 結果
 結果: [Experiments.xlsx](Experiments.xlsx)
   
-以下、最終的なハイパーパラメータ設定で、5回の施行
+精度が良かったmicrosoft/deberta-v3-largeの最終結果のみ表示。最終的なハイパーパラメータ設定で、5回の施行
 | Batch_Size | Token_Length | Backborn                      | LR       | Epoch | Grad Accumulation | F1 Val (th=0.5) | F1 Val - Best thresh | Best F1 Val | F1_Test (th=0.5) | F1 Test - Best thresh | Best F1 Test | Runtime  |
 |------------|--------------|-------------------------------|----------|-------|-------------------|-----------------|----------------------|-------------|------------------|----------------------|--------------|----------|
 | 16         | 128          | microsoft-deberta-v3-large    | 0.000003 | 5     | 1                 | 0.7033          | 0.65                 | 0.7045      | 0.7              | 0.2                  | 0.7761       | 0:11:40  |
