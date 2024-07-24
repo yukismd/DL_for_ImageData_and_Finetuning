@@ -23,22 +23,25 @@
 ### Experiments
 1. AutoML（DAI）によるTFIDFアプローチ : [TFIDF_DAI](./TFIDF_DAI)
 2. 学習済みモデル（感情分析、Zero-shot Text Classification）から特徴量を作成し、AutoML（DAI）で予測するアプローチ : [TrainedModel_for_FeatureCreation](./TrainedModel_for_FeatureCreation)
-3. 生成AIによるヘイトスピーチ判定 : [LLM](./LLM)
-4. DAI BERT実装 : [DAI_Bert](./DAI_Bert)
-5. HT BERTモデル Finetuning : [HT](./HT)
-6. 生成AI Finetuning : [LlmStudio](./LlmStudio)
+3. DAI BERT実装 : [DAI_Bert](./DAI_Bert)
+4. HT BERTモデル Finetuning : [HT](./HT)
+5. Pytorch BERTモデル Finetuning : [PT](./PT)
+6. 生成AIによるヘイトスピーチ判定 : [LLM](./LLM)
+7. 生成AI Finetuning : [LlmStudio](./LlmStudio)
 
 ***
 ### Results サマリー
 
-| Approach                                                                 | TestデータにおけるF1値                                                         |
-|--------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| 1 AutoML（DAI）によるTFIDFアプローチ                                      | 5回の試行。平均値が0.5662。最大値が0.597                                      |
-| 2 学習済みモデル（感情分析、Zero-shot Text Classification）から特徴量を作成し、AutoML（DAI）で予測するアプローチ | Zero-shot特徴量のみで0.3606557。それに1のアプローチを加えて0.5797101         |
-| 3 生成AIによるヘイトスピーチ判定                                          | GPT4で0.471                                                                    |
-| 4 DAI BERT実装                                                            | bert-base-uncasedで0.475                                                      |
-| 5 HT BERTモデル Finetuning                                                | microsoft-deberta-v3-largeで5回試行。平均値が0.71242。最大値が0.7761          |
-| 6 生成AI Finetuning                                                       | rinna/japanese-gpt-neox-3.6b-instruction-ppoのEpoch=2の平均値が0.74358。最大値が0.76923 |
+| No | Approach | TestデータにおけるF1値 |
+|----|----------|----------------------|
+| 1  | AutoML（DAI）によるTFIDFアプローチ | 5回の試行。平均値が0.5662。最大値が0.597 |
+| 2  | 学習済みモデル（感情分析、Zero-shot Text Classification）から特徴量を作成し、AutoML（DAI）で予測するアプローチ | Zero-shot特徴量のみで0.3606557。それに1のアプローチを加えて0.5797101 |
+| 3  | DAI BERT実装 | bert-base-uncasedで0.475 |
+| 4  | HT BERTモデル Finetuning | microsoft-deberta-v3-largeで5回試行。平均値が0.71242。最大値が0.7761 |
+| 5  | Pytorch BERTモデル Finetuning | tohoku-nlp/bert-large-japanese-v2, studio-ousia/luke-japanese-large-liteで複数回実施。閾値=0.5で0.6後半。Best閾値を採用すると、0.7超えだと考えられる |
+| 6  | 生成AIによるヘイトスピーチ判定 | GPT4で0.471 |
+| 7  | 生成AI Finetuning | rinna/japanese-gpt-neox-3.6b-instruction-ppoのEpoch=2の平均値が0.74358。最大値が0.76923 |
+
 
 詳細は各フォルダ内参照
 
