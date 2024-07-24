@@ -33,7 +33,7 @@ Transformed:
 7. 生成AI Finetuning : [LlmStudio](./LlmStudio)
 
 ***
-### Results サマリー
+### Experiments結果のサマリー
 
 | No | Approach | TestデータにおけるF1値 |
 |----|----------|----------------------|
