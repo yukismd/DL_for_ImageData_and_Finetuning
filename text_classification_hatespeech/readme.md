@@ -2,10 +2,10 @@
 テキストのヘイトスピーチ検出。以下の様々なアプローチでExperimentを実施。
 
 ***
-ソース: https://competition.nishika.com/competitions/hate/data
-
-***
 ### Datasets
+Original: https://competition.nishika.com/competitions/hate/data
+
+Transformed:
 - Train: https://sample-data-open.s3.ap-northeast-1.amazonaws.com/text_classification_hatespeech/hatespeech_train.csv
 - Test: https://sample-data-open.s3.ap-northeast-1.amazonaws.com/text_classification_hatespeech/hatespeech_test.csv
 
