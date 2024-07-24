@@ -1,4 +1,7 @@
 ## ヘイトスピーチ検出
+テキストのヘイトスピーチ検出。以下の様々なアプローチでExperimentを実施。
+
+***
 ソース: https://competition.nishika.com/competitions/hate/data
 
 ***
