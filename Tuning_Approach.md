@@ -12,6 +12,15 @@
 - BackbornはEfficientNetやResNetが汎用的で良い
 - 優先度の高いデータ拡張は、horizontal、Vertical、Transpose Flip（３つの反転）。それらの次は、Shift、Scale、Rotate。HUE、Saturation、Random Noise、Blurなども試してみる価値あり。（データ拡張を多用している場合、エポック数が十分か確認）
 
+### 画像距離学習/Image Metric Learning/Image Similarity - Kaggleに挑む深層学習プログラミングの極意（講談社）
+(ArcFaceアプローチを仮定)
+- 距離学習特有のハイパーパラメータ。これらのハイパーパラメータは、基本的にBackbornに依存しない
+    - ArcFaceマージンペナルティ（m）: 0.2,0.4,0.6,0.8,1.0辺り
+    - ArcFaceスケーリング（s）: 20,32,40,48,64辺り
+    - 画像Embedding次元: 512程度で十分だが、余裕があれば1024や1792も試す 
+- チューニング戦略として、小さなBackboneと画像サイズで、距離学習特有のハイパーパラメータやデータ拡張を検証（これらはタスクやデータに依存して決まることが多い）。その後、大きなBackboneや画像サイズのスケールアップを検証
+- 画像距離学習では、GeM Pooling(Generalized Mean Pooling)がよく利用される
+
 ### テキスト分類/回帰 - Kaggleに挑む深層学習プログラミングの極意（講談社）
 - BERTの他によく使われるBERT系アーキテクチャ [p.177]
     - RoBERTa
