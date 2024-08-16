@@ -13,7 +13,7 @@
 - 優先度の高いデータ拡張は、horizontal、Vertical、Transpose Flip（３つの反転）。それらの次は、Shift、Scale、Rotate。HUE、Saturation、Random Noise、Blurなども試してみる価値あり。（データ拡張を多用している場合、エポック数が十分か確認）
 
 ### 画像距離学習/Image Metric Learning/Image Similarity - Kaggleに挑む深層学習プログラミングの極意（講談社）
-(ArcFaceアプローチを仮定)
+注：ArcFaceアプローチを仮定
 - 距離学習特有のハイパーパラメータ。これらのハイパーパラメータは、基本的にBackbornに依存しない
     - ArcFaceマージンペナルティ（m）: 0.2,0.4,0.6,0.8,1.0辺り
     - ArcFaceスケーリング（s）: 20,32,40,48,64辺り
