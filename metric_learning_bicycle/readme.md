@@ -1,12 +1,24 @@
 # Metric Learning / 距離学習
 
+### H2O Hydrogen Torchによる画像距離学習（Metric Learning/Similarity Model）
+
 Original Source: H2O Hydrogen Torch - Image Metric Learning sample data
+- Original: https://h2o-release.s3.amazonaws.com/hydrogen-torch/1.3.0/bicycle_image_metric_learning.zip  
+- Train/Test分割済み: https://jp-public.s3.ap-southeast-1.amazonaws.com/data/image_metric_learning_bicycle/bicycle_image_metric_learning_v2.zip
 
-Original: https://h2o-release.s3.amazonaws.com/hydrogen-torch/1.3.0/bicycle_image_metric_learning.zip
-Train/Test分割済み: https://jp-public.s3.ap-southeast-1.amazonaws.com/data/image_metric_learning_bicycle/bicycle_image_metric_learning_v2.zip
+***
+## データ統計
 
-  
-  
+データ数
+- Train: 6,650
+- Test: 1,663
+
+ユニークID数
+- Train: 918 (1IDあたり、7.24(6650/918)枚の画像)
+- Test: 230 (1IDあたり、7.23(1663/230)枚の画像)
+
+
+
 人物全身画像の距離学習
  - 画像サイズ（同サイズ）： (H, W, C) = (128, 64, 3)
  - データ数
@@ -17,16 +29,7 @@ Train/Test分割済み: https://jp-public.s3.ap-southeast-1.amazonaws.com/data/i
      - 学習データ数：6,262、テストデータ数:721、合計:6,983
      - 全ラベル数:551、TrainにもTestにもあるラベル数:368、Trainにのみあるラベル数:163、Testのみにあるラベル数:20（368+163+20=551）
   
-***
 
- - Hydrogen Torchによる実施: [HT dir](./HT)
-   - 距離学習モデルの作成とチューニング
-   - 予測結果データ 
- - PyTorchによる実施: [PT dir](./PT)
-   - 学習済みモデルのGlobal Pooling層の出力を検索ベクトルとして利用した場合
-   - ArcFace Loss関数を用いたモデル学習
-   
-***
 
 [Data作成](./make_dataset.ipynb)  
 [EDA](./EDA.ipynb)  
