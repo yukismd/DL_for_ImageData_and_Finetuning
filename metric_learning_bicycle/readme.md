@@ -24,9 +24,9 @@ Original Source: H2O Hydrogen Torch - Image Metric Learning sample data
 また、学習データのfold間にもID（label）に重複なし。モデル作成時の検証においても、完全新規のクラスで評価される
   
 画像サイズ
-- Train: [H, W, C] = [[80~1500], [80~2894], 3]
-- Test: [H, W, C] = [[63~500], [123~500], 3]
+- Train: [H, W, C] = [[80 ~ 1500], [80 ~ 2894], 3]
+- Test: [H, W, C] = [[63 ~ 500], [123 ~ 500], 3]
 
 
-<img src="./img/sample_images2.png" alt="sample">
+<img src="./img/sample_images.png" alt="sample">
 10枚以上の画像があるIDをもつ画像のサンプル
