@@ -14,10 +14,11 @@ Original Source: H2O Hydrogen Torch - Image Metric Learning sample data
 - Train: 6,650
 - Test: 1,663
 
-ユニークID数
-- Train: 918 (1IDあたり、7.24(6650/918)枚の画像)
-- Test: 230 (1IDあたり、7.23(1663/230)枚の画像)
+ユニークID数（1 IDあたり、何枚の画像があるか）
+- Train: 918 (1 IDあたり、平均で7.24(6650/918)枚の画像)
+- Test: 230 (1 IDあたり、平均で7.23(1663/230)枚の画像)
 <img src="./img/train_id_dist.png" alt="train_dist">
+<img src="./img/test_id_dist.png" alt="test_dist">
   
   
 <img src="./display_images/sample_imgs.png" alt="sample">
