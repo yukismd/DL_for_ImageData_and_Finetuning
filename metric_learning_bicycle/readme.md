@@ -28,5 +28,5 @@ Original Source: H2O Hydrogen Torch - Image Metric Learning sample data
 - Test: [H, W, C] = [[63~500], [123~500], 3]
 
 
-<img src="./display_images/sample_images2.png" alt="sample">
+<img src="./img/sample_images2.png" alt="sample">
 10枚以上の画像があるIDをもつ画像のサンプル
