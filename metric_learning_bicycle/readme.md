@@ -30,3 +30,8 @@ Original Source: H2O Hydrogen Torch - Image Metric Learning sample data
 
 <img src="./img/sample_images.png" alt="sample">
 10枚以上の画像があるIDをもつ画像のサンプル
+  
+***
+## 実験結果
+(experiments_ml.xlsx)[experiments_ml.xlsx]
+<img src="./img/experiment_result.png" alt="res">
