@@ -33,5 +33,5 @@ Original Source: H2O Hydrogen Torch - Image Metric Learning sample data
   
 ***
 ## 実験結果
-(experiments_ml.xlsx)[experiments_ml.xlsx]
+[experiments_ml.xlsx](experiments_ml.xlsx)
 <img src="./img/experiment_result.png" alt="res">
