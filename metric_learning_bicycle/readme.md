@@ -35,3 +35,8 @@ Original Source: H2O Hydrogen Torch - Image Metric Learning sample data
 ## 実験結果
 [experiments_ml.xlsx](experiments_ml.xlsx)
 <img src="./img/experiment_result.png" alt="res">
+  
+***
+## 予測結果
+Testデータに対するEmbeddingとTop類似度画像ID: [prediction](prediction)  
+各ファイルの扱いに関して: [Predict_dl_pkl.ipynb](Predict_dl_pkl.ipynb)
