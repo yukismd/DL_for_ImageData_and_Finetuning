@@ -7,6 +7,7 @@ H2O Driverless AI, H2O Hydrohen Torch, PyTorchによる実験
  - [cifar10](./cifar10): Image Multiclass Classification - Cifar10を用いた分類問題（DAI, HT チュートリアル）
  - [regression](./regression): Image Regression - ブラジル通貨画像の金額予測 (画像回帰)
  - [metriclearning](./metriclearning): Image Metric Learning - 人物全身画像の距離学習 (画像距離学習)
+ - [metric_learning_bicycle](./metric_learning_bicycle): Image Metric Learning - 自転車画像の距離学習 (HT チュートリアル)
  - [text_classification_hatespeech](./text_classification_hatespeech) - ヘイトスピーチ判定 (テキスト分類)
  - [sensor_classification](./sensor_classification) - センサーデータ異常判定 (テーブルデータ分類問題)
   
