@@ -1,0 +1,2 @@
+
+- Feature engineering search space: [ClusterDist, ClusterTE, Interactions, NumToCatTE, Original, TruncSVDNum]
