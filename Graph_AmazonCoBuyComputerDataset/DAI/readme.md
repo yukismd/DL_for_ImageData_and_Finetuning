@@ -3,6 +3,10 @@
 Auto ML (Driverless AI)による、テーブルデータに対する分類問題  
 Driverless AI : https://docs.h2o.ai/driverless-ai/1-10-lts/docs/userguide/index.html
 
+### データ
+- train : https://jp-public.s3.ap-southeast-1.amazonaws.com/data/AmazonCoBuyComputerDataset/DAI_AmazonCoBuyComputerDataset/AmazonCoBuyComputerDataset_train.csv
+- test : https://jp-public.s3.ap-southeast-1.amazonaws.com/data/AmazonCoBuyComputerDataset/DAI_AmazonCoBuyComputerDataset/AmazonCoBuyComputerDataset_test.csv
+
 ### 結果
 | Experiment Name      | Comment                                              | Setting - Accuracy | Setting - Time | Setting - Interpretability | Val - Accuracy | Test - Accuracy | Run Time |
 |----------------------|------------------------------------------------------|--------------------|----------------|----------------------------|----------------|-----------------|----------|
