@@ -15,5 +15,5 @@ Multi Class Classification （1つのカラム、10カテゴリ）、Homogeneous
 詳細：[DAI](./DAI)
 
 ### Graph Convolutional Network (GCN) - Hydrogen Torch
-
+詳細：[HT](./HT)
 
