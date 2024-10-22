@@ -17,3 +17,6 @@ Multi Class Classification （1つのカラム、10カテゴリ）、Homogeneous
 ### Graph Convolutional Network (GCN) - Hydrogen Torch
 詳細：[HT](./HT)
 
+
+## 結果
+XXX
