@@ -9,3 +9,4 @@ Auto ML (Driverless AI)による、テーブルデータに対する分類問題
 | Graph-Amazon-GLM     | モデルはGLMのみ。特徴量エンジニアリングはOriginalのみ | 5                  | 5              | 3                          | 0.8236         | 0.85645         | 0:11:28  |
 
 
+結果詳細：[DAI_result.xlsx](./DAI_result.xlsx)
