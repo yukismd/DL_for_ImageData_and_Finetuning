@@ -3,6 +3,10 @@
 Hydrogen Torchによる、Graph Node Classification（ノード間の関連性を考慮し、ノードの分類問題を解く）  
 Hydrogen Torch : https://docs.h2o.ai/h2o-hydrogen-torch/
 
+### データ
+- https://jp-public.s3.ap-southeast-1.amazonaws.com/data/AmazonCoBuyComputerDataset/HT_AmazonCoBuyComputerDataset.zip
+- (Transductive, Inductive task) https://jp-public.s3.ap-southeast-1.amazonaws.com/data/AmazonCoBuyComputerDataset/HT_AmazonCoBuyComputerDataset_InductiveTransductiveTest.zip 
+
 ### チューニングアプローチ
 
 Round 1 : 以下のハイパーパラメータ設定をグリッドサーチ（96回の実験）
