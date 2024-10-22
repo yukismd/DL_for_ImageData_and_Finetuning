@@ -19,4 +19,6 @@ Multi Class Classification （1つのカラム、10カテゴリ）、Homogeneous
 
 
 ## 結果
-XXX
+Driverless AIのデフォルト設定でモデル作成を実施したところ、Accuracy(Validation)=0.8706, Accuracy(Test)=0.87477  
+Hydrogen Torchでハイパーパラメータチューニングをした結果、ベストモデルでAccuracy(Validation)=0.8671, Accuracy(Test)=0.8594  
+テーブルデータとして作成したモデルの方が精度が高く、ノード間の関係性を考慮したGCNアプローチによる精度向上は見られなかった
