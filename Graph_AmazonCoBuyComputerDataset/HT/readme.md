@@ -1,5 +1,7 @@
 ## Graph Convolutional Network (GCN) - Hydrogen Torch
 
+Hydrogen Torchによる、Graph Node Classification（ノード間の関連性を考慮し、ノードの分類問題を解く）
+
 ### チューニングアプローチ
 
 Round 1 : 以下のハイパーパラメータ設定をグリッドサーチ（96回の実験）
