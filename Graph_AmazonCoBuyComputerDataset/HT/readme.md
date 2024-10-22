@@ -19,7 +19,7 @@ Round 2 : Round 1の結果を元に、以下のハイパーパラメータ設定
 - learning_rate : 0.002 or 0.01
 
 ### 結果
-Round 1 (96回の実験のうち、上位10位)
+Round 1 (96回の実験のうち、上位10位を表示)
 | Name                                                                                                                             | Epochs | Hidden Dims | Learning Rate | Neighbor Sampling Quantile | Hidden Layers | Num Hops | Val Accuracy | Test Accuracy | Runtime |
 |----------------------------------------------------------------------------------------------------------------------------------|--------|-------------|----------------|----------------------------|----------------|----------|--------------|---------------|---------|
 | Graph-Amazon_grid_epochs_10_hidden_dims_256_learning_rate_0.002_neighbor_sampling_quantile_0.5_num_hidden_layers_2_num_hops_4     | 10     | 256         | 0.002          | 0.5                        | 2              | 4        | 0.8671       | 0.8594        | 0:00:35 |
@@ -32,4 +32,9 @@ Round 1 (96回の実験のうち、上位10位)
 | Graph-Amazon_grid_epochs_5_hidden_dims_256_learning_rate_0.002_neighbor_sampling_quantile_0.5_num_hidden_layers_2_num_hops_4      | 5      | 256         | 0.002          | 0.5                        | 2              | 4        | 0.8327       | 0.829         | 0:00:18 |
 | Graph-Amazon_grid_epochs_10_hidden_dims_256_learning_rate_0.002_neighbor_sampling_quantile_0.5_num_hidden_layers_2_num_hops_3     | 10     | 256         | 0.002          | 0.5                        | 2              | 3        | 0.8358       | 0.8257        | 0:00:27 |
 | Graph-Amazon_grid_epochs_5_hidden_dims_256_learning_rate_0.002_neighbor_sampling_quantile_0.5_num_hidden_layers_4_num_hops_4      | 5      | 256         | 0.002          | 0.5                        | 4              | 4        | 0.8222       | 0.8195        | 0:00:21 |
+
+Round 2は、Round 1の結果を元に、精度向上しそうな方向にハイパーパラメータの検証を実施したが、精度向上は見られず  
+
+結果詳細：[HT_result.xlsx](./HT_result.xlsx)
+
 
