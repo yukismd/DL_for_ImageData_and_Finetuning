@@ -1,6 +1,7 @@
 ## Graph Convolutional Network (GCN) - Hydrogen Torch
 
-Hydrogen Torchによる、Graph Node Classification（ノード間の関連性を考慮し、ノードの分類問題を解く）
+Hydrogen Torchによる、Graph Node Classification（ノード間の関連性を考慮し、ノードの分類問題を解く）  
+Hydrogen Torch : https://docs.h2o.ai/h2o-hydrogen-torch/
 
 ### チューニングアプローチ
 
