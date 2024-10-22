@@ -1,7 +1,7 @@
 # Graph Data - Node Classification Problem
 
 ## データ
-AmazonCoBuyComputerDataset: https://docs.dgl.ai/en/0.8.x/generated/dgl.data.AmazonCoBuyComputerDataset.html  
+**AmazonCoBuyComputerDataset**: https://docs.dgl.ai/en/0.8.x/generated/dgl.data.AmazonCoBuyComputerDataset.html  
 コンピューター関連製品の同時購入データ。各製品はラベルとして10の商品カテゴリを持つ  
 Multi Class Classification （1つのカラム、10カテゴリ）、Homogeneous Graph、Undirected Graph
 
