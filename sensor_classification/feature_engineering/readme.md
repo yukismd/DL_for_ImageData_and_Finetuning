@@ -21,3 +21,9 @@
 
 ***
 ### 結果
+
+特徴量をPS1, PS2, PS3, PS4, PS5, PS6のみとし、AUtoML（Driverless AI）でモデル作成
+| Experiment Name                    | Target       | Features                                                                | Val AUC | Test AUC |
+|------------------------------------|--------------|-------------------------------------------------------------------------|---------|----------|
+| SenCls_minimal_features_PS_default | Stable_flag  | PS1,2,3,4,5,6                                                           | 0.9966  | 0.9895   |
+| SenCls_minimal_features_PS_o_default | Stable_flag | 5と同じ特徴量で特徴量エンジニアリングを実施しない（OriginalTransformerのみ） | 0.9924  | 0.9833   |
