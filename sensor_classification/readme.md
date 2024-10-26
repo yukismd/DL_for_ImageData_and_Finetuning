@@ -27,3 +27,8 @@ Source: [Condition monitoring of hydraulic systems](https://archive.ics.uci.edu/
 - [feature_engineering](./feature_engineering) : 特徴量エンジニアリング（時系列をテーブル形式に変換）とAutoML
 - [image_dl](./image_dl) : 画像（時系列プロット）分類（CNN）
 
+***
+## 考察
+両アプローチとも同等の結果に。結果もほぼほぼ最大精度（Test AUC > .99）を達成できている状況。  
+今回は画像を直接読み取るメリットなどは見られなかった。  
+予測精度が出ずらいターゲット変数などを利用して、引き続き要検討。
