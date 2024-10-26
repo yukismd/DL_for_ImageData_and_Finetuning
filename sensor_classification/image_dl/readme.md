@@ -19,10 +19,12 @@
 
 ***
 ### 画像サンプル
-0.jpg, Stable_flag=1
+0.jpg, Stable_flag=1  
 <img src="./img_sample/0.jpg" alt="Stable_flag=1" width="400" height="300">
-2204.jpg, Stable_flag=0
+
+2204.jpg, Stable_flag=0  
 <img src="./img_sample/2204.jpg" alt="Stable_flag=0" width="400" height="300">
+
 上からPS1, PS2, PS3, PS4, PS5, PS6
 
 ***
