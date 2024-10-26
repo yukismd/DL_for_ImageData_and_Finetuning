@@ -8,6 +8,7 @@ Source: [Condition monitoring of hydraulic systems](https://archive.ics.uci.edu/
 - Output
     - Labelデータ: profile_with_testflag.csv
         - N=2205 (Train_N=1905, Test_N=300のフラグ付き)
+        - ターゲット変数の候補は複数あるが、本プロジェクトでは、"Stable_flag"とする
     - 特徴量データ: features.pickle
         - 各種センサーデータを縦持ち（id, time, sensor value）にしたデータ
 
