@@ -16,7 +16,7 @@ Source: [Condition monitoring of hydraulic systems](https://archive.ics.uci.edu/
 
 ***
 ## ターゲット変数: Stable_flag
-|            | Stable_flag=0 | Stable_flag=1 | Stable_flag=1の割合 | データ合計 |
+|            | Stable_flag=0 | Stable_flag=1 | Stable_flag=1の割合 | データ数合計 |
 |------------|---------------|---------------|----------------------|------|
 | Train Data | 1252          | 653           | 34.3%               | 1905 |
 | Test Data  | 197           | 103           | 34.3%               | 300  |
