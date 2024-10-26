@@ -43,3 +43,5 @@
 | 8       | SensorWave-rd1_augmentations_strategy_Soft_backbone_resnet50_learning_rate_0.001_mix_image_Disabled                | resnet50             | 0.001         | Soft                  | Disabled  | 0.9919        | 0.9844       | 0:01:10 |
 | 9       | SensorWave-rd1_augmentations_strategy_Soft_backbone_resnet50_learning_rate_0.001_mix_image_Mixup                   | resnet50             | 0.001         | Soft                  | Mixup     | 0.9889        | 0.9832       | 0:01:13 |
 | 10      | SensorWave-rd1_augmentations_strategy_Medium_backbone_tf_efficientnetv2_b3_learning_rate_0.0003_mix_image_Disabled | tf_efficientnetv2_b3 | 0.0003        | Medium                | Disabled  | 0.9911        | 0.9827       | 0:01:20 |
+
+詳細: [experiments_results_dl.xlsx](./experiments_results_dl.xlsx)
