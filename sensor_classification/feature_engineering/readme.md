@@ -10,6 +10,14 @@
         - 統計量:  sum_values, median, mean, length, standard_deviation, variance, maximum, minimum
 
 [tsfresh_minimal.ipynb](./tsfresh_minimal.ipynb)
-- 特徴量集約データ（tsfresh_minimal_features.csv）とラベルデータ（profile_with_testflag.csv）から、学習データ（SenCls_minimal_features_Train.csv）とテストデータ（SenCls_minimal_features_Test.csv）を作成
+- 特徴量集約データ（tsfresh_minimal_features.csv）とラベルデータ（profile_with_testflag.csv）から、学習データ（v）とテストデータ（SenCls_minimal_features_Test.csv）を作成
     - SenCls_minimal_features_Train.csv: (1905, 143)
     - SenCls_minimal_features_Test.csv: (300, 143)
+
+**Download**
+- tsfresh_minimal_features.csv: https://sample-data-open.s3.ap-northeast-1.amazonaws.com/SensorClassification_ConditionMonitoringHydraulicSystems/tsfresh_minimal_features.csv
+- SenCls_minimal_features_Train.csv: https://sample-data-open.s3.ap-northeast-1.amazonaws.com/SensorClassification_ConditionMonitoringHydraulicSystems/SenCls_minimal_features_Train.csv
+- SenCls_minimal_features_Test.csv: https://sample-data-open.s3.ap-northeast-1.amazonaws.com/SensorClassification_ConditionMonitoringHydraulicSystems/SenCls_minimal_features_Test.csv
+
+***
+### 結果
