@@ -27,3 +27,5 @@
 |------------------------------------|--------------|-------------------------------------------------------------------------|---------|----------|
 | SenCls_minimal_features_PS_default | Stable_flag  | PS1,2,3,4,5,6                                                           | 0.9966  | 0.9895   |
 | SenCls_minimal_features_PS_o_default | Stable_flag | 5と同じ特徴量で特徴量エンジニアリングを実施しない（OriginalTransformerのみ） | 0.9924  | 0.9833   |
+
+詳細: [experiments_results_fe.xlsx](./experiments_results_fe.xlsx)
