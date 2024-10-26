@@ -15,6 +15,14 @@ Source: [Condition monitoring of hydraulic systems](https://archive.ics.uci.edu/
 この2つのデータを、Approach別に処理  
 
 ***
+## ターゲット変数: Stable_flag
+|            | Stable_flag=0 | Stable_flag=1 | Stable_flag=1の割合 | データ合計 |
+|------------|---------------|---------------|----------------------|------|
+| Train Data | 1252          | 653           | 34.3%               | 1905 |
+| Test Data  | 197           | 103           | 34.3%               | 300  |
+
+
+***
 ## Approaches
 - [feature_engineering](./feature_engineering) : 特徴量エンジニアリング（時系列をテーブル形式に変換）とAutoML
 - [image_dl](./image_dl) : 画像（時系列プロット）分類（CNN）
