@@ -13,12 +13,21 @@ Fine Tuned: [yukismd/h2oai-h2o-danube3-4b-chat-JP-v1](https://huggingface.co/yuk
 - Document: https://sbintuitions.github.io/flexeval/
 
 ### jcommonsenseqa  
+About: https://sbintuitions.github.io/flexeval/preset_configs/EvalSetup/ja_generation/#jcommonsenseqa
+
 
 ### aio  
+About: https://sbintuitions.github.io/flexeval/preset_configs/EvalSetup/ja_generation/#aio
 
 ### vicuna-ja  
+About: https://sbintuitions.github.io/flexeval/preset_configs/EvalSetup/ja_chat/#vicuna-ja
 
-### vicuna-ja ペア比較  
+#### LLM as a Judge - Pairwise Judge Evaluation  
+vicuna-jaの生成結果をLLM as a Judgeでペア比較  
+
+Steps: https://sbintuitions.github.io/flexeval/how_to/evaluate_with_llm_judges/#pairwise-judge-evaluation
+Settings for vicuna-ja: https://sbintuitions.github.io/flexeval/preset_configs/PairwiseJudge/#assistant_judge_ja_single_turn
+
 
 
 ## 結論
