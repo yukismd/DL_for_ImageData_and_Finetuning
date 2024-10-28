@@ -10,22 +10,18 @@ Fine Tuned: [yukismd/h2oai-h2o-danube3-4b-chat-JP-v1](https://huggingface.co/yuk
 ## 精度評価
 評価ツール: **FlexEval** (github: https://github.com/sbintuitions/flexeval) (Document: https://sbintuitions.github.io/flexeval/)
 
-### (1) jcommonsenseqa  
-About: https://sbintuitions.github.io/flexeval/preset_configs/EvalSetup/ja_generation/#jcommonsenseqa
+### (1) jcommonsenseqa
+常識的な推論能力を必要とするMultiple Choice形式の質問データセットであるCommonsenseQAの日本語版  
+詳細: [jcommonsenseqa](./jcommonsenseqa)
 
+### (2) aio
+AI王。日本語のクイズデータセット  
+詳細: [aio](./aio)
 
-### (2) aio  
-About: https://sbintuitions.github.io/flexeval/preset_configs/EvalSetup/ja_generation/#aio
-
-### (3) vicuna-ja  
-About: https://sbintuitions.github.io/flexeval/preset_configs/EvalSetup/ja_chat/#vicuna-ja
-
-#### LLM as a Judge - Pairwise Judge Evaluation  
+### (3) vicuna-ja
+決まった正解がない、オープンクエスチョン形式の質問  
 vicuna-jaの生成結果をLLM as a Judgeでペア比較  
-
-Steps: https://sbintuitions.github.io/flexeval/how_to/evaluate_with_llm_judges/#pairwise-judge-evaluation  
-Settings for vicuna-ja: https://sbintuitions.github.io/flexeval/preset_configs/PairwiseJudge/#assistant_judge_ja_single_turn
-
+詳細: [vicuna-ja](./vicuna-ja)
 
 
 ## 結論
