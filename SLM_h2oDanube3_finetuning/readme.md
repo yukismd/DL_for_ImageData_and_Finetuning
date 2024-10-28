@@ -10,6 +10,13 @@ Fine Tuned: [yukismd/h2oai-h2o-danube3-4b-chat-JP-v1](https://huggingface.co/yuk
 ## 精度評価
 [FlexEval](https://github.com/sbintuitions/flexeval)
 
+jcommonsenseqa  
+
+aio  
+
+vicuna-ja  
+
+vicuna-ja ペア比較  
 
 
 ## 結論
