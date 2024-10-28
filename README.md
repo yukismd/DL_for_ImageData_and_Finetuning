@@ -11,6 +11,7 @@ H2O Driverless AI, H2O Hydrohen Torch, PyTorchを用いた、さまざまな問�
  - [text_classification_hatespeech](./text_classification_hatespeech) - ヘイトスピーチ判定 (テキスト分類)
  - [sensor_classification](./sensor_classification) - センサーデータ異常判定 (テーブルデータ分類問題)
  - [Graph_AmazonCoBuyComputerDataset](./Graph_AmazonCoBuyComputerDataset) - グラフデータ。Amazonのコンピューター関連商品のカテゴリ分類（グラフノード分類）
+ - [SLM_h2oDanube3_finetuning](./SLM_h2oDanube3_finetuning) - Small Language Model Fine Tuning
   
 
 ## Other
