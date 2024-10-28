@@ -10,14 +10,14 @@ Fine Tuned: [yukismd/h2oai-h2o-danube3-4b-chat-JP-v1](https://huggingface.co/yuk
 ## 精度評価
 評価ツール: **FlexEval** (github: https://github.com/sbintuitions/flexeval) (Document: https://sbintuitions.github.io/flexeval/)
 
-### jcommonsenseqa  
+### (1) jcommonsenseqa  
 About: https://sbintuitions.github.io/flexeval/preset_configs/EvalSetup/ja_generation/#jcommonsenseqa
 
 
-### aio  
+### (2) aio  
 About: https://sbintuitions.github.io/flexeval/preset_configs/EvalSetup/ja_generation/#aio
 
-### vicuna-ja  
+### (3) vicuna-ja  
 About: https://sbintuitions.github.io/flexeval/preset_configs/EvalSetup/ja_chat/#vicuna-ja
 
 #### LLM as a Judge - Pairwise Judge Evaluation  
