@@ -3,7 +3,8 @@ About: https://sbintuitions.github.io/flexeval/preset_configs/EvalSetup/ja_gener
 
 常識的な推論能力を必要とするMultiple Choice形式の質問データセットであるCommonsenseQAの日本語版
 
-''' プロンプト（質問）例
+プロンプト（質問）例
+``` プロンプト（質問）例
 正しい答えは何でしょう？
 
 0.「川蜘蛛」
@@ -29,4 +30,5 @@ About: https://sbintuitions.github.io/flexeval/preset_configs/EvalSetup/ja_gener
 4.「まな板」
 問題：電子機器で使用される最も主要な電子回路基板の事をなんと言う？
 回答：「
-'''
+```
+
