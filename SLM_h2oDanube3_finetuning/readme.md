@@ -7,3 +7,7 @@
 Original: h2oai/h2o-danube3-4b-chat : https://huggingface.co/h2oai/h2o-danube3-4b-chat  
 Fine Tuned: yukismd/h2oai-h2o-danube3-4b-chat-JP-v1 : https://huggingface.co/yukismd/h2oai-h2o-danube3-4b-chat-JP-v1
 
+## 精度評価
+
+## 結論
+
