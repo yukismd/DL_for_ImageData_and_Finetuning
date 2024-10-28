@@ -1,5 +1,5 @@
 # Deep Learning, Finetuning, Related Topics
-H2O Driverless AI, H2O Hydrohen Torch, PyTorchによる実験
+H2O Driverless AI, H2O Hydrohen Torch, PyTorchを用いた、さまざまな問題に対する実験
 
 ## Experiments
  - [classification_6classes](./classification_6classes): Image Multiclass Classification - 製品表面欠陥分類 (画像分類)
