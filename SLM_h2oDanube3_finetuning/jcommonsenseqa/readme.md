@@ -3,7 +3,7 @@ About: https://sbintuitions.github.io/flexeval/preset_configs/EvalSetup/ja_gener
 
 常識的な推論能力を必要とするMultiple Choice形式の質問データセットであるCommonsenseQAの日本語版
 
-*プロンプト（質問）例*
+プロンプト（質問）例:
 ```
 正しい答えは何でしょう？
 
