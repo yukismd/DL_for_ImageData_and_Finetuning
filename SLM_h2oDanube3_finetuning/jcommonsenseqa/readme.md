@@ -31,4 +31,11 @@ About: https://sbintuitions.github.io/flexeval/preset_configs/EvalSetup/ja_gener
 問題：電子機器で使用される最も主要な電子回路基板の事をなんと言う？
 回答：「
 ```
+質問数: 1,119
 
+## 結果
+正解数
+- Original Model (h2oai/h2o-danube3-4b-chat): 0.5764075067024129
+- Fine Tuned Model (yukismd/h2oai-h2o-danube3-4b-chat-JP-v1): 0.5138516532618409
+
+Output詳細: [results_commonsenseqa.csv](./results_commonsenseqa.csv)
