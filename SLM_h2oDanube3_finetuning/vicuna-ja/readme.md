@@ -1,5 +1,7 @@
 # vicuna-ja  
 About: https://sbintuitions.github.io/flexeval/preset_configs/EvalSetup/ja_chat/#vicuna-ja
+決まった正解がない、オープンクエスチョン形式の質問
+vicuna-jaの生成結果をLLM as a Judgeでペア比較
 
 #### LLM as a Judge - Pairwise Judge Evaluation  
 vicuna-jaの生成結果をLLM as a Judgeでペア比較  
