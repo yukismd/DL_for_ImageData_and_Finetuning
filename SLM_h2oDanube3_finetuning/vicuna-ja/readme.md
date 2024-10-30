@@ -37,6 +37,13 @@ LLM as a Judge - ペア比較
 ```
 質問数: 80
 
+## 結果
+XXX
+- Original Model (h2oai/h2o-danube3-4b-chat): XXX
+- Fine Tuned Model (yukismd/h2oai-h2o-danube3-4b-chat-JP-v1): XXX
+
+Output詳細: [results_vicuna-ja.csv](./results_vicuna-ja.csv)
+
 ***
 FlexEvalドキュメント該当箇所
 - Steps: https://sbintuitions.github.io/flexeval/how_to/evaluate_with_llm_judges/#pairwise-judge-evaluation  
