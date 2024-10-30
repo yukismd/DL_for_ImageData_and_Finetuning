@@ -1,10 +1,36 @@
 # vicuna-ja  
 About: https://sbintuitions.github.io/flexeval/preset_configs/EvalSetup/ja_chat/#vicuna-ja  
-決まった正解がない、オープンクエスチョン形式の質問
-vicuna-jaの生成結果をLLM as a Judgeでペア比較
+決まった正解がない、オープンクエスチョン形式の質問  
+vicuna-jaの質問に対する生成結果を、LLM as a Judgeでペア比較
 
-#### LLM as a Judge - Pairwise Judge Evaluation  
-vicuna-jaの生成結果をLLM as a Judgeでペア比較  
+LLM as a Judge - ペア比較  
 
-Steps: https://sbintuitions.github.io/flexeval/how_to/evaluate_with_llm_judges/#pairwise-judge-evaluation  
-Settings for vicuna-ja: https://sbintuitions.github.io/flexeval/preset_configs/PairwiseJudge/#assistant_judge_ja_single_turn
+システムプロンプト: 
+```
+あなたは、回答の質をチェックするための審判員です。以下に示されるユーザーの質問に対する2つのAIアシスタントの応答の品質を評価してください。回答の内容がユーザーの指示に従っており、ユーザーの質問によりよく答えているアシスタントを選んでください。具体的には、回答の有用性、関連性、正確性、深さ、創造性、詳細レベルなどの要素を考慮する必要があります。評価の際には、まず2つの回答を比較し、簡単な説明をしてください。立場が偏らないようにし、回答の提示順があなたの判断に影響しないようにしてください。回答の長さが評価に影響しないこと、特定のアシスタントの名前を好まないこと、できるだけ客観的であること、に気をつけてください。説明の後に、最終的な判断を以下の形式に従って出力してください：アシスタント1が優れていれば[[1]]、アシスタント2が優れていれば[[2]]、同点の場合は[[3]]
+```
+
+プロンプト（質問）例: 
+```
+[ユーザの質問]
+時間管理能力を向上させるにはどうしたらいいですか？
+
+[アシスタント1の回答開始]
+時間管理能力を向上させるには、いくつかの方法があります。以下は一般的な方法ですが、個人的な要因や経済的な状況によっては、一部が適用できず、一部が適用できる場合もあります。
+1. 時間計画を行います。時間計画には、日曜日や祝日を除き、週末までの日曜日や祝日を含めた日曜日や祝日の時間を分けて、仕事や家庭事務を予定します。
+2. 時間計画を実行します。時間計画を実行するためには、時間計画を確認し、時間計画を実行するために必要な時間を確保します。
+....
+[アシスタント1の回答終了]
+[アシスタント2の回答開始]
+時間管理能力を向上させるために、次のことをお勧めします。
+1.時間計画を行う。
+2.時間計画を実行して、目標を達成します。
+3.時間計画を維持して、目標を達成します。
+...
+[アシスタント2の回答終了]
+```
+
+***
+FlexEvalドキュメント該当箇所
+- Steps: https://sbintuitions.github.io/flexeval/how_to/evaluate_with_llm_judges/#pairwise-judge-evaluation  
+- Settings for vicuna-ja: https://sbintuitions.github.io/flexeval/preset_configs/PairwiseJudge/#assistant_judge_ja_single_turn
