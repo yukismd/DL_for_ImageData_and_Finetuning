@@ -23,6 +23,7 @@ AI王。日本語のクイズデータセット
 vicuna-jaの生成結果をLLM as a Judgeでペア比較  
 詳細: [vicuna-ja](./vicuna-ja)
 
+実行コマンド: [command.md](./SLM_h2oDanube3_finetuning/command.md)
 
 ## 結論
 
