@@ -36,7 +36,7 @@ $ flexeval_lm \
 
 ペア比較（OpenAI API keyを環境変数への登録が必要）
 ```
-OPENAI_API_KEY=sk-*****
+$ OPENAI_API_KEY=sk-*****
 
 $ flexeval_pairwise \
    --lm_output_paths.h2o_danube3 "drive/MyDrive/modeldir/model1/outputs.jsonl" \
