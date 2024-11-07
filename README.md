@@ -1,5 +1,5 @@
 # Deep Learning, Finetuning, Related Topics
-H2O Driverless AI, H2O Hydrohen Torch, PyTorchを用いた、さまざまな問題に対する実験
+さまざまな、機械学習、Deep Learning、Language Modelに関する問題の実験
 
 ## Experiments
  - [classification_6classes](./classification_6classes): Image Multiclass Classification - 製品表面欠陥分類 (画像分類)
@@ -14,12 +14,10 @@ H2O Driverless AI, H2O Hydrohen Torch, PyTorchを用いた、さまざまな問�
  - [SLM_h2oDanube3_finetuning](./SLM_h2oDanube3_finetuning) - Small Language Model Fine Tuning
   
 
-## Other
- - [augmentation](./augmentation) - 画像のデータ拡張に関して
- - [models](./models) - 事前学習モデルに関して
-
-
 ## Finetuning Tips
  - [Tuning_Approach.md](./Tuning_Approach.md) - ファインチューニングのTips
 
 
+## H2O Hydrogen Torch 仕様
+ - [augmentation](./augmentation) - 画像のデータ拡張に関して
+ - [models](./models) - 事前学習モデルに関して
