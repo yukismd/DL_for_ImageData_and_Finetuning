@@ -1,0 +1,4 @@
+https://huggingface.co/spaces/opencompass/open_vlm_leaderboard
+https://speakerdeck.com/ryotatanaka/large-vision-language-models
+
+

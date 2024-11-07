@@ -1,0 +1,16 @@
+image,"<image>
+Does pedestrian crossing appear in the image?","<image>
+Does traffic light appear in the image? If yes, what color is it?","<image>
+What is the weather in this image?","<image>
+How many cars are in the image?","<image>
+Is there anything I should be careful in this image situation? If yes, what is it?"
+driveRecord1.jpg,"Yes, there is a person on the opposite sidewalk.","Yes, red",The description does not provide any information about the weather conditions in this image.,There are 7 cars in the image.,Caution when night vision is activated (the street)
+driveRecord2.jpg,"Yes, at X:1 Y:238 Width:33 Height:33","Yes, there is a traffic light at the intersection, but the color is not specified in the descriptions.",Sunny,There are a couple of cars in the image.,"Yes, you should be careful near the corner of the street as it is full of cars and pedestrians waiting to cross the street."
+driveRecord3.jpg,"Yes, pedestrian crossing is visible.","Yes, there is a green traffic light.",It is raining lightly.,Two,"Yes, be careful at crosswalk."
+driveRecord4.jpg,no,"Yes, there is a red traffic light.",cloudy,Three,"There are cars on the road, so be careful and watch for them."
+driveRecord5.jpg,Yes,"Yes, red","The weather in the image appears to be clear and sunny, as evidenced by the bright blue sky and the absence of clouds. There are no signs of precipitation or adverse weather conditions. The visibility is good, with buildings and details of the street clearly visible. Given the brightness and the lack of shadows, it is likely that the photo was taken on a typical sunny day rather than on an overcast or cloudy day. However, without more specific indicators such as temperature readings or wind conditions, it is not possible to provide a precise weather description.","There are several cars visible in the image, including a brown minivan driving on the street.",Young boy by car
+driveRecord6.jpg,"Yes, pedestrian crossing and white stripe line.","Yes, green","The sky is brightly light, and the sun is shining",There are three cars in the image.,"Yes, be careful when crossing the crosswalk."
+driveRecord7.jpg,Yes,"Yes, the traffic light is visible and it is green.",sunny,"There is one car in the image, which is driving through a traffic light.","Yes, be careful of the moving car and bicycle."
+driveRecord8.jpg,"No, pedestrian crossing does not appear in the image.",There is no mention of a traffic light in the image description.,Grey.,There are 0 cars in the image.,Driving in rainy weather
+driveRecord9.png,No,"No, traffic light is not visible.",Clear,3,There is a boxer bike that might have left the road.
+driveRecord10.jpg,"Yes, there is a pedestrian crossing on the street.","Yes, it is red.",The sky is clear and white.,Three cars,be careful of cars
