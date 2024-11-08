@@ -1,0 +1,116 @@
+image,"<image>
+Read the printed text in the image. What is this image about. Short answer:","<image>
+Extract the type of the image, categorizing it as 'Business Card', 'Resume' or 'Receipt'. Type:","<image>
+Read the printed text in the image. Is this image a receipt? Yes or No:","<image>
+Read the printed text in the image. How much is the total amount in this receipt? Amount:"
+receipt1.png,"The image contains text, likely from a document or advertisement, but the specific details are indiscernible. The words are difficult to read due to the image resolution and quality.",Business Card,No.,222
+receipt2.jpeg,"The image contains Japanese text which appears to be associated with a business's contact information, a tax document, and a promotional banner with the image of a city skyline at sunset.",Business Card,No.,210.
+receipt3.jpeg,"The text in the image is a price list from PayPay, a payment app in Japan. The prices are listed in Japanese Yen, with each item listed for different combinations of units, such as 1096 units, 957 units, and 1000 units. There is also an asterisk indicating that prices are discounted by 10%. The prices are provided for LS41100L, VL117P, and are subject to additional charges for other items and discounted prices. The bottom part of the price list has Chinese characters and is unrelated to the price list in the image.",Categorized as a 'Receipt'.,Yes.,"1,87"
+receipt4.jpeg,"The image shows a receipt with Japanese text. The details on the receipt include the check number (itemized list items), the total cost (which is not visible in the image), and various currency amounts. To read the text, the reader would need to have knowledge of the Japanese language and a tool or software capable of deciphering and reading the alphabet signs and numbers visible on the receipt.",Business Card,Yes,"Åè3,340"
+receipt5.jpg,"The image contains a series of Japanese characters, likely part of a larger text. The text appears to be arranged in three columns with a column header containing the characters ""3"". There is a character followed by the number ""4"", another with the character ""5"", and a fourth with the character ""8"". It seems like a pattern of numbers being preceded by Japanese characters, with each character potentially representing another number or phrase.",Business Card,No.,"67
+170
+150
+165
+399
+118
+148
+123
+-576
+511
+869
+-770
+509
+-699
+-170
+562
+-806
+-700
+-378
+-999
+00632P
+00636
+0063D
+0063DP
+00036
+0063DP
+0080DP
+008DF
+007BBF
+007BDF
+007DDBP
+00034
+0034DF
+0034DP
+0031DE
+052DIP
+052DF
+0005
+0052DP
+0054DP
+0070
+-149
+00732P
+0073DP
+0073DP
+007D
+-87
+00769
+0089
+-689
+007BFDA
+00BDBF
+-790
+-611
+0079DP
+-262
+0079DP
+00306
+-87
+-0034DA
+-0038DE
+061DP
+-26
+-14
+-0052DP
+-052DB
+0052DP
+-0001
+-018
+0007DF
+0073DP
+0073DP
+0073DP
+00769
+-509
+-772
+-99"
+receipt6.jpeg,"The image shows a store receipt with various entries including the item names, their quantities, and prices. The items listed on the receipt are: 
+- 0.778kg Banana Cavendish
+- 0.442kg Banana Cavendish
+- SPECIAL 0 Special Banana Cavendish
+- SPECIAL 5 Special Banana Cavendish
+- 5.32kg Potatoes Brushed Potatoes
+- 10.32kg 5 Special Potatoes
+- 10.80kg 0 Special 5 Special Potatoes
+- 32 KG Special Potatoes
+- 15.32kg Special Grapes
+- 1.27kg Special Grapes
+- 3.15 kg Special Grapes 3.32kg Grape
+- 1.74kg Special Grapes 5 Special Grapes
+- 0.218kg Special Grapes 5 Special Grapes
+- 3.5 kg Special Grapes 5 Special Grapes
+- 39.99 kg Lettuce Iceberg
+- 15.00 kg Loyalty Lettuce Iceberg
+- 39.20 kg Loyalty Lettuce Iceberg
+- 55.10 kg Loyalty Lettuce Iceberg
+- 15.00 kg Loyalty Lettuce Iceberg
+- 24.20 kg Subtotal
+- 32.40 kg Sub Total
+- 20.20 USD
+- 25.80 CHANGE
+
+The subtotal amounts at $15.00, $24.20, and $25.80 respectively for Loyalty Lettuce Iceberg. The change amount is also listed in the image, but specific steps or calculations were not provided for measuring it.",Receipt,Yes.,24.20
+receipt7.png,"This image is a screenshot of a restaurant's order total page from Joes Diner in Ocean City, New Jersey.",Receipt,Yes,$45.00
+receipt8.jpg,Chicken and beer for seven days a week at Ludarcis' Chicken and Beer restaurant.,Receipt,Yes.,63.10
+receipt9.jpeg,"The image shows a receipt from a restaurant named ""Dell"" and other restaurant prices and item listings.","The image is a business card, primarily used for identification and contact purposes in professional settings.",Yes.,27.81
+receipt10.jpg,"A close-up photograph of someone holding a receipt with various text, prices, and numbers.",Business Card,Yes.,53.28
