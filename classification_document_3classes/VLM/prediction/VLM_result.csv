@@ -1,0 +1,32 @@
+image,class,"<image>
+Extract the type of the image, categorizing it as 'email', 'resume' or 'scientific_publication'. Type:"
+images/doc_000832.png,scientific_publication,scientific_publication
+images/doc_000076.png,email,email
+images/doc_000584.png,scientific_publication,scientific_publication
+images/doc_000101.png,resume,email
+images/doc_000279.png,email,email
+images/doc_000248.png,resume,email
+images/doc_000802.png,resume,email
+images/doc_000089.png,scientific_publication,scientific_publication
+images/doc_000097.png,resume,resume
+images/doc_000509.png,scientific_publication,scientific_publication
+images/doc_000550.png,email,email
+images/doc_000349.png,scientific_publication,"This image is a PDF document related to research conducted by the University of Texas at Southwest Medical Center and the University of Tennessee, Memphis. It is categorized under 'Publications' and 'Publications' of the journal Lonely Planet and 'Publication' of the University of Tennessee."
+images/doc_000596.png,email,email
+images/doc_000070.png,resume,email
+images/doc_000485.png,email,'email'
+images/doc_000655.png,email,email
+images/doc_000513.png,scientific_publication,scientific_publication
+images/doc_000674.png,resume,scientific_publication
+images/doc_000175.png,resume,"The image is a type of image, specifically a typed document or print page, and it does not belong to any of the provided categories (email, resume, scientific publication)."
+images/doc_000864.png,scientific_publication,scientific_publication
+images/doc_000281.png,resume,scientific_publication
+images/doc_000016.png,scientific_publication,scientific_publication
+images/doc_000558.png,email,email
+images/doc_000130.png,scientific_publication,scientific_publication
+images/doc_000363.png,email,email
+images/doc_000045.png,scientific_publication,scientific_publication
+images/doc_000551.png,resume,scientific_publication
+images/doc_000297.png,email,email
+images/doc_000402.png,resume,scientific_publication
+images/doc_000745.png,email,email
