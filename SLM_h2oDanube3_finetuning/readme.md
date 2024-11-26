@@ -26,4 +26,4 @@ vicuna-jaの生成結果をLLM as a Judgeでペア比較
 **実行コマンド**: [command.md](./command.md)
 
 ## 結論
-
+本実験では、Finetuningの効果なし
