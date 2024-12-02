@@ -15,3 +15,7 @@
 - 学習: https://github.com/yukismd/DL_for_ImageData_and_Finetuning/blob/main/classification_document_3classes/OCR/DAI_document_classification_TRAIN_ocr.csv
 - テスト: https://github.com/yukismd/DL_for_ImageData_and_Finetuning/blob/main/classification_document_3classes/OCR/DAI_document_classification_TEST_ocr.csv
 
+
+***
+### 結果
+[Experiments_DAI.xlsx](./Experiments_DAI.xlsx)
