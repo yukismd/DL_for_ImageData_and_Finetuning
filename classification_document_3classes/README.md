@@ -12,7 +12,6 @@ Data Source: https://github.com/h2oai/ht-catalog/tree/646864e3c695f7c721514159bd
 | resume                | 55  | 45    | 10   |
 | scientific_publication | 55  | 45    | 10   |
 
-***
 
 ***
 ## 実験アプローチ
@@ -29,4 +28,7 @@ Small Vision Language Modelによる分類
 AI-OCRで画像からテキストを抽出、テキストに対し分類モデルを作成
 - OCR詳細: [OCR](./OCR)
 - 予測詳細: [DAI](./DAI)
+
+***
+## 結果
 
