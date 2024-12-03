@@ -12,6 +12,7 @@ Data Source: https://github.com/h2oai/ht-catalog/tree/646864e3c695f7c721514159bd
 | resume                | 55  | 45    | 10   |
 | scientific_publication | 55  | 45    | 10   |
 
+※ データDLは各アプローチリンク先  
 
 ***
 ## 実験アプローチ
