@@ -11,7 +11,7 @@
 
 ***
 ### テキストアプローチ
-OCRで画像から取得したテキストをインプットとしたモデル（TFIDF+SVD）を作成  
+[OCR](../OCR/)で画像から取得したテキストをインプットとしたモデル（TFIDF+SVD）を作成  
 
 データ
 - 学習: https://github.com/yukismd/DL_for_ImageData_and_Finetuning/blob/main/classification_document_3classes/OCR/DAI_document_classification_TRAIN_ocr.csv
