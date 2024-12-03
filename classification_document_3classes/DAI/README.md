@@ -20,6 +20,6 @@ OCRで画像から取得したテキストをインプットとしたモデル�
 
 ***
 ### 結果
-<img src="./display_images/res.png" alt="res">  
+<img src="./display_image/res.png" alt="res">  
 
 詳細: [Experiments_DAI.xlsx](./Experiments_DAI.xlsx)
