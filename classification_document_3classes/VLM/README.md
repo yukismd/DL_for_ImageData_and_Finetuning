@@ -4,7 +4,7 @@
 **モデル**  
 [h2oai/h2ovl-mississippi-800m](https://huggingface.co/h2oai/h2ovl-mississippi-800m)
 
-**プロンプト**  
+**プロンプト**
 ```
 <image>\nExtract the type of the image, categorizing it as 'email', 'resume' or 'scientific_publication'. Type:
 ```
