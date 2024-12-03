@@ -39,6 +39,11 @@ AI-OCRで画像からテキストを抽出、テキストに対し分類モデ�
 
 ***
 ## 結果
-
+| Approach                                           | Accuracy | Training Time (min), N(Train)=135 | Scoring Time (min), N(Test)=30 |
+|------------------------------------------------|----------|-----------------------------------|--------------------------------|
+| DAI Image Supervised Classification           | 0.90     | 37                                | 0                              |
+| LG (CLIP) zero shot classification            | 0.50     | None                              | 3                              |
+| VLM (h2oai/h2ovl-mississippi-800m) generation | 0.71     | None                              | 2                              |
+| OCR (PaddleOCR) + DAI Text Supervised Classification (TFIDF) | 1.00     | 38                                | 7                              |
 
 詳細: [result.xlsx](./result.xlsx)
