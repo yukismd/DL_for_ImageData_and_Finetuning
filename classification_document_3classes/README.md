@@ -12,8 +12,11 @@ Data Source: https://github.com/h2oai/ht-catalog/tree/646864e3c695f7c721514159bd
 | resume                | 55  | 45    | 10   |
 | scientific_publication | 55  | 45    | 10   |
 
+**email画像**
 <img src="./display_images/email.png" alt="email">  
+**resume画像**
 <img src="./display_images/resume.png" alt="resume">  
+**scientific_publication画像**
 <img src="./display_images/scientific_publication.png" alt="sp">  
 
 ※ データDLは各アプローチリンク先  
