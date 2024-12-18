@@ -27,7 +27,7 @@ Data Source: https://github.com/h2oai/ht-catalog/tree/646864e3c695f7c721514159bd
 画像データを用いて画像分類モデルを作成
 - 詳細: [DAI](./DAI)
   
-CLIPによるZero-SHot分類
+CLIPによるZero-Shot分類
 - 詳細: [LG_zero-shot](./LG_zero-shot)
 
 Small Vision Language Modelによる分類
