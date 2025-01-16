@@ -33,6 +33,9 @@ CLIPによるZero-Shot分類
 Small Vision Language Modelによる分類
 - 詳細: [VLM](./VLM)
 
+gpt-4o-miniによる分類
+- 詳細: [OpenAI_VLM](./OpenAI_VLM)
+
 AI-OCRで画像からテキストを抽出、テキストに対し分類モデルを作成
 - OCR詳細: [OCR](./OCR)
 - 予測詳細: [DAI](./DAI)
@@ -44,6 +47,7 @@ AI-OCRで画像からテキストを抽出、テキストに対し分類モデ�
 | DAI Image Supervised Classification           | 0.90     | 37                                | 0                              |
 | LG (CLIP) zero shot classification            | 0.50     | None                              | 3                              |
 | VLM (h2oai/h2ovl-mississippi-800m) generation | 0.71     | None                              | 2                              |
+| VLM (gpt-4o-mini (2025/1/16)) generation | 0.933     | None                              | 1.3                              |
 | OCR (PaddleOCR) + DAI Text Supervised Classification (TFIDF) | 1.00     | 38                                | 7                              |
 
 詳細: [result.xlsx](./result.xlsx)
