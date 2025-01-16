@@ -1,0 +1,31 @@
+image_id,"Extract the type of the image, categorizing it as 'email', 'resume' or 'scientific_publication'. Type:",vm_result,image,class
+doc_000016.png,Type: scientific_publication,scientific_publication,images/doc_000016.png,scientific_publication
+doc_000101.png,Type: scientific_publication,scientific_publication,images/doc_000101.png,resume
+doc_000297.png,Type: email,email,images/doc_000297.png,email
+doc_000513.png,The type of the image is: **scientific_publication**.,scientific_publication,images/doc_000513.png,scientific_publication
+doc_000655.png,The type of the image is 'email'.,email,images/doc_000655.png,email
+doc_000045.png,The type of the image is: **scientific_publication**.,scientific_publication,images/doc_000045.png,scientific_publication
+doc_000130.png,The image type is: scientific_publication.,scientific_publication,images/doc_000130.png,scientific_publication
+doc_000349.png,scientific_publication,scientific_publication,images/doc_000349.png,scientific_publication
+doc_000550.png,type: email,email,images/doc_000550.png,email
+doc_000674.png,The type of the image can be categorized as 'resume'.,resume,images/doc_000674.png,resume
+doc_000070.png,The type of the image is classified as 'resume'.,resume,images/doc_000070.png,resume
+doc_000175.png,The type of the image is categorized as 'resume'.,resume,images/doc_000175.png,resume
+doc_000363.png,The type of the image is 'email'.,email,images/doc_000363.png,email
+doc_000551.png,The type of the image is 'resume'.,resume,images/doc_000551.png,resume
+doc_000745.png,The type of the image is 'email'.,email,images/doc_000745.png,email
+doc_000076.png,The type of the image is categorized as **email**.,email,images/doc_000076.png,email
+doc_000248.png,The image type is categorized as a **resume**.,resume,images/doc_000248.png,resume
+doc_000402.png,The type of the image is categorized as 'resume'.,resume,images/doc_000402.png,resume
+doc_000558.png,Type: email,email,images/doc_000558.png,email
+doc_000802.png,The type of the image is categorized as a 'resume'.,resume,images/doc_000802.png,resume
+doc_000089.png,The type of the image is categorized as 'scientific_publication'.,scientific_publication,images/doc_000089.png,scientific_publication
+doc_000279.png,Type: email,email,images/doc_000279.png,email
+doc_000485.png,The type of the image is categorized as 'email'.,email,images/doc_000485.png,email
+doc_000584.png,The type of the image is categorized as 'scientific_publication'.,scientific_publication,images/doc_000584.png,scientific_publication
+doc_000832.png,The image type is categorized as 'scientific_publication'.,scientific_publication,images/doc_000832.png,scientific_publication
+doc_000097.png,The type of the image is categorized as 'scientific_publication'.,scientific_publication,images/doc_000097.png,resume
+doc_000281.png,The type of the image is categorized as 'resume'.,resume,images/doc_000281.png,resume
+doc_000509.png,The type of the image is: **scientific_publication**.,scientific_publication,images/doc_000509.png,scientific_publication
+doc_000596.png,The type of the image is 'email'.,email,images/doc_000596.png,email
+doc_000864.png,The type of the image is 'scientific_publication'.,scientific_publication,images/doc_000864.png,scientific_publication
