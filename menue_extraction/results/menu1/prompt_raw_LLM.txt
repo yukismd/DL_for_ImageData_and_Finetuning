@@ -1,0 +1,50 @@
+以下の情報に注意して覚えておいてください。最後に質問や命令に答えるためには、チャット履歴、指定された画像、または文書テキストのみを使用する必要があります。
+<all_documents>
+<doc>
+<name>menu1.pdf (254a435c-bdb5-4e8d-abef-3024e133f77f)</name>
+<page>1</page>
+<text>
+太古    酒場 Restaurant. ダイナソー
+                               INOs SIURC
+                                                    オジ十ルメニュー
+                                                                         恒格は全て税込です
+                            ダイナソー1ボソドステ一キ           3769円
+                           大迫力!1 ポンド(450ワ)0ステ一キ
+                          焼き加減レア三テイアムウェルダン!
+                          「おラレガ一一ク塩ユショウ!   1
+                          ユポソドステ一キ     6932円
+                            ダイナソーカッ卜ステ一キ            2213円           ダイナ一1ポソドステ一キ
+                          12ボソド(225のカ一卜ステ一キ、
+                          焼き加減レア三ティアムウェルダン!
+                          おラレガ一一ク塩ユショウ]     1
+                            ダイ+ソ一1ポソドハソパ一グ           7504円
+                           オリジ+ルハンパ一グを豪快に3枚!1ボソド(450の迫カ八ンパー一グ
+                          「ホラレガ一リークテミグラス塩ユショウボソ]1
+                                         4528円
+                           ダイ十ソーBBQグL               3769円
+                          スベアリフを卜口卜口になるまで煮込んで焼き上げました    」 100骨込]
+                          (じつく焼き上げるため。 お時間 4050 分ほと頂きます)
+                           太古の骨付き肉    [要予約)          1564円
+                          現代人が夢にきで見たあの骨付き肉    豪快にかぷつけ     1kg
+                          「口一ストピーフと同じ雪店でと上ていま中ウで中心が降でとがは中がモ心してオ日し上が原はす] 太古の骨付き肉
+                        キートとイレローもイーく                 3769円            ライス
+                          やれラかなヒレ肉のステ一キ  2009
+                          焼き加減ルアミテイアムウェルダソ!                       M(200g) 740円
+                          「おラレガ一ーック塩ユショウ!
+                                                                   L(300g) 366円
+</text>
+<figcaption>
+<page>1</page>
+The image shows a menu card for a restaurant with a picture of a dinosaur on it. The menu card contains text and images of various food items, such as burgers, entrees, and desserts. The dinosaur is depicted in a realistic style, with its scales and claws clearly visible. The text on the menu card is written in a bold font, and the background of the card is a light blue color.
+</figcaption>
+</doc>
+</all_documents>
+上記のコンテキスト内で提供されたチャット履歴、提供された画像、またはドキュメント テキストの情報のみに基づいて、次の質問に対して適切な回答を行ってください。
+
+メニュー画像が入力されます。記載されているメニュー情報全てを抽出するのが目的です。「メニュー名」「内容説明」「価格」を以下のjson形式で出力してください。記載がない部分は「null」と出力してください。
+
+[{
+"メニュー名": "'唐揚げ'等のメニューの名前",
+"内容説明": "メニュー内容の説明。記載がなければ'null'とする",
+"価格": "メニューに対応した価格",
+}]

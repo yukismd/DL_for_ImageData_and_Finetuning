@@ -1,0 +1,161 @@
+[
+{ "メニュー名": "No.1 omelet with fried rice",
+"内容説明": "ketchup-seasoned fried rice",
+"価格": "¥900"
+},
+{ "メニュー名": "No.2 large serving of omelet",
+"内容説明": "filling of ketchup-seasoned fried rice",
+"価格": "¥1300"
+},
+{ "メニュー名": "No.3 fried prawns",
+"内容説明": "null",
+"価格": "¥1100"
+},
+{ "メニュー名": "No.4 pork cutlet",
+"内容説明": "null",
+"価格": "¥1100"
+},
+{ "メニュー名": "Pork Singer Donburi",
+"内容説明": "null",
+"価格": "¥900"
+},
+{ "メニュー名": "TAKITORI Donburi",
+"内容説明": "null",
+"価格": "¥900"
+},
+{ "メニュー名": "minced tuna with spring onion Donburi",
+"内容説明": "null",
+"価格": "¥1100"
+},
+{ "メニュー名": "spaghetti carbonara",
+"内容説明": "with meats",
+"価格": "¥900"
+},
+{ "メニュー名": "corn soup",
+"内容説明": "null",
+"価格": "¥400"
+},
+{ "メニュー名": "chicken nuggets",
+"内容説明": "null",
+"価格": "¥400"
+},
+{ "メニュー名": "japanese takoyaki",
+"内容説明": "octopus balls",
+"価格": "¥400"
+},
+{ "メニュー名": "fries",
+"内容説明": "null",
+"価格": "¥400"
+},
+{ "メニュー名": "cheese & crackers",
+"内容説明": "null",
+"価格": "¥350"
+},
+{ "メニュー名": "side salad",
+"内容説明": "null",
+"価格": "¥200"
+},
+{ "メニュー名": "rice",
+"内容説明": "null",
+"価格": "¥200"
+},
+{ "メニュー名": "bread",
+"内容説明": "null",
+"価格": "¥200"
+},
+{ "メニュー名": "nozawana",
+"内容説明": "null",
+"価格": "¥300"
+},
+{ "メニュー名": "cake",
+"内容説明": "null",
+"価格": "¥450"
+},
+{ "メニュー名": "cake set",
+"内容説明": "with coffee or tea",
+"価格": "¥650"
+},
+{ "メニュー名": "pancake",
+"内容説明": "null",
+"価格": "¥400"
+},
+{ "メニュー名": "pancake set",
+"内容説明": "with coffee or tea or ice cream",
+"価格": "¥550"
+},
+{ "メニュー名": "ice cream",
+"内容説明": "vanilla, green tea or chocolate",
+"価格": "¥350"
+},
+{ "メニュー名": "coffee",
+"内容説明": "null",
+"価格": "¥350"
+},
+{ "メニュー名": "iced coffee",
+"内容説明": "null",
+"価格": "¥400"
+},
+{ "メニュー名": "cafe cappuccino",
+"内容説明": "null",
+"価格": "¥400"
+},
+{ "メニュー名": "cafe latte",
+"内容説明": "null",
+"価格": "¥400"
+},
+{ "メニュー名": "hot chocolate",
+"内容説明": "null",
+"価格": "¥400"
+},
+{ "メニュー名": "tea with lemon or milk",
+"内容説明": "null",
+"価格": "¥400"
+},
+{ "メニュー名": "hot milk",
+"内容説明": "null",
+"価格": "¥400"
+},
+{ "メニュー名": "draft beer",
+"内容説明": "null",
+"価格": "¥600"
+},
+{ "メニュー名": "bottled beer",
+"内容説明": "null",
+"価格": "¥500"
+},
+{ "メニュー名": "shigakogen beer",
+"内容説明": "null",
+"価格": "¥500"
+},
+{ "メニュー名": "oolong tea",
+"内容説明": "iced or hot",
+"価格": "¥400"
+},
+{ "メニュー名": "coke",
+"内容説明": "null",
+"価格": "¥400"
+},
+{ "メニュー名": "ginger ale",
+"内容説明": "null",
+"価格": "¥400"
+},
+{ "メニュー名": "orange juice",
+"内容説明": "null",
+"価格": "¥300"
+},
+{ "メニュー名": "apple juice",
+"内容説明": "null",
+"価格": "¥400"
+},
+{ "メニュー名": "non-alcoholic beer",
+"内容説明": "null",
+"価格": "¥400"
+},
+{ "メニュー名": "unrefined sake",
+"内容説明": "null",
+"価格": "¥650"
+},
+{ "メニュー名": "premium wine",
+"内容説明": "red or white",
+"価格": "¥600"
+} ]

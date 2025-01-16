@@ -1,0 +1,51 @@
+以下の情報に注意して覚えておいてください。最後に質問や命令に答えるためには、チャット履歴、指定された画像、または文書テキストのみを使用する必要があります。
+<all_documents>
+<doc>
+<name>menu3.pdf (d5d1d328-486e-4306-b76b-bc18e384fb72)</name>
+<page>1</page>
+<text>
+-
+                           -755- 900 127 ST0L- 1100 No.7 MGE 1100
+                            (very  orry with Hel prwes cany withporkcufet
+   44577         4777
+ No.1 omelet with at filling ofketchup-seasoned ¥ 900 No.2 large servingof omelet withafillingof 1300 non-7943 1 3-S21 esh
+   fried rice  ketchup-seasonedfriedrice E-2ya 1300 ancedbeefwithstew 1100 10 oupset 800
+                           M-OUD94-* 900 EREX 900 3 D **10# 1100
+                           PorkSingerDonburl TAKITORDunburl miced tune n pring oneon Dunburl
+ No.3 IL751 1100 No.4 R-054 1100
+   fried prawns porkcutlet ERTIE 900 DILRT 32R794 900 21774 c h 000
+                           2 04 at od, paghetticarbonara with neats
+                                      An extra- large serving costs 100 yen extra
+ Side Menu Dessert   Drink Menu
+ 3-Y7-7 . 400 T-  450 AESKIIE 350 7727IE 400 TAEK 1 77 600
+ comsoup   cake       coffee  icedcoffee draft beer
+ F#YFFY T . 400
+ chicken nuggets T- -#1 ty T ¥650 57F1 400 9107* ¥. 400 74 Ex- 500
+ RE PE   400 cake set with coffee or tea cafe cappuccino iced or hot oolong tea bottledbeer
+ japanese takoyaki/octopus balls
+ ZRN >: T fries KIRT T 400 ty pancake 7- # 350 7I9 cafe llatte T 4 400 coke 1L 7 . 400 shigakogen beer IL 5 500
+ F - X&7592 73 350 Ty tt: TA 550
+ cheese &crackers 1o- Ky 7 F 3 ] I 400 9y9T IIV 400 - - 400
+ 7 sy   200 pancake set with coffee or tea or ice cream hot chocolate ginger ale non-alcoholic beer
+ side salad
+ 777    200 17 YOU A : 350 *I # (LEY-2W) 400 t 199T Y 300 650
+ rice      icecream. vanilla, green tea or chocolate tea with lemon or milk orangej juice unrefined sake
+ KY     200                        3 300 7LS7471Y 600
+ bread               Ky T IVO. 4 400 P97IL9: 1 Y
+ BRE    300          hot milk applejuice premiumwine,red or white
+ nozawana
+</text>
+<figcaption>
+<page>1</page>
+The image shows a menu card for a Japanese restaurant with a variety of food items on it. The menu card is filled with different types of food, each with its own unique flavor and price. The text on the menu card provides information about the restaurant's offerings, such as the type of food available, the price, and the location.
+</figcaption>
+</doc>
+</all_documents>
+上記のコンテキスト内で提供されたチャット履歴、提供された画像、またはドキュメント テキストの情報のみに基づいて、次の質問に対して適切な回答を行ってください。
+メニュー画像が入力されます。記載されているメニュー情報全てを抽出するのが目的です。「メニュー名」「内容説明」「価格」を以下のjson形式で出力してください。記載がない部分は「null」と出力してください。
+
+[{
+"メニュー名": "'唐揚げ'等のメニューの名前",
+"内容説明": "メニュー内容の説明。記載がなければ'null'とする",
+"価格": "メニューに対応した価格",
+}]
