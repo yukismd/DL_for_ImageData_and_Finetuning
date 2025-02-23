@@ -12,7 +12,7 @@ PJ内: [./cbm_quality_management_manual_v01.pdf](./cbm_quality_management_manual
 - PDFを構造化し、章別に分けたドキュメントとしてh2oGPTeへ投入。チャンク設定を変更しRAGを実施
 - 答えがわかっているドキュメントの章のみプロンプトに含め、質問（RAGではない）
 
-※[h2oGPTe](https://docs.h2o.ai/enterprise-h2ogpte/)
+※ [h2oGPTe](https://docs.h2o.ai/enterprise-h2ogpte/)
 
 
 ### 結果と考察
