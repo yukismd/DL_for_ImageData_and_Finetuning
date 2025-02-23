@@ -9,4 +9,4 @@ PJ内: [./cbm_quality_management_manual_v01.pdf](./cbm_quality_management_manual
 
 
 ### 結果
-./QandA_Result.xlsx
+[./QandA_Result.xlsx](./QandA_Result.xlsx)
