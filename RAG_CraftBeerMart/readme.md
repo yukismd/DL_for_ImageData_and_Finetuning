@@ -15,7 +15,8 @@ PJ内: [./cbm_quality_management_manual_v01.pdf](./cbm_quality_management_manual
 3) PDFを構造化し、章別に分けたドキュメントとしてh2oGPTeへ投入。チャンク設定を変更しRAGを実施
 4) 答えがわかっているドキュメントの章のみプロンプトに含め、質問（RAGではない）
 
-1, 2, 3の実行コード: [code/Craft-Beer-Market_run_RAG.ipynb](code/Craft-Beer-Market_run_RAG.ipynb)
+1, 2, 3の実行コード: [code/Craft-Beer-Market_run_RAG.ipynb](code/Craft-Beer-Market_run_RAG.ipynb)  
+4の実行コード: [code/Ans_in_prompt.ipynb](code/Ans_in_prompt.ipynb)
 
 ※ [h2oGPTe](https://docs.h2o.ai/enterprise-h2ogpte/)
 
