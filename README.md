@@ -13,7 +13,8 @@
  - [sensor_classification](./sensor_classification) - センサーデータ異常判定 (テーブルデータ分類問題)
  - [Graph_AmazonCoBuyComputerDataset](./Graph_AmazonCoBuyComputerDataset) - グラフデータ。Amazonのコンピューター関連商品のカテゴリ分類（グラフノード分類）
  - [SLM_h2oDanube3_finetuning](./SLM_h2oDanube3_finetuning) - Small Language Model Fine Tuning Test
- - [Small_Vision_Model_h2oMississippi](./Small_Vision_Model_h2oMississippi) - Small Vision Language Model Test  
+ - [Small_Vision_Model_h2oMississippi](./Small_Vision_Model_h2oMississippi) - Small Vision Language Model Test
+ - [RAG_CraftBeerMart](./RAG_CraftBeerMart) - RAG
 
 
 ## Finetuning Tips
