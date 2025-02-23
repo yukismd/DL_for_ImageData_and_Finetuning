@@ -5,6 +5,9 @@
 PJ内: [./cbm_quality_management_manual_v01.pdf](./cbm_quality_management_manual_v01.pdf)  
 オリジナル: https://www.craftbeermarket.jp/wp2/wp-content/themes/cbm/images/pdf/cbm_quality_management_manual_v01.pdf
 
+### 質問リスト
+評価用質問リスト: [./QandA.csv](./QandA.csv)
+
 ### 実験内容
 データ（PDF）をいくつかの条件、h2oGPTeの設定で実行、精度を比較
 - PDFをh2oGPTeへそのまま投入。デフォルト設定でRAGを実施
