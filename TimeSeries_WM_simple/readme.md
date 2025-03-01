@@ -7,4 +7,4 @@
 
 
 ### 結果
-[result.xlsx](./result.xlsx)
+[results.xlsx](./results.xlsx)
