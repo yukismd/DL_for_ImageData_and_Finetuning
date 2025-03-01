@@ -11,6 +11,7 @@
  - [metric_learning_bicycle](./metric_learning_bicycle): Image Metric Learning - 自転車画像の距離学習 (HT チュートリアル)
  - [text_classification_hatespeech](./text_classification_hatespeech) - ヘイトスピーチ判定 (テキスト分類)
  - [sensor_classification](./sensor_classification) - センサーデータ異常判定 (テーブルデータ分類問題)
+ - [TimeSeries_WM_simple](./TimeSeries_WM_simple) - 時系列予測。Time Series Foundation Model(Chronos Bolt)の実験
  - [Graph_AmazonCoBuyComputerDataset](./Graph_AmazonCoBuyComputerDataset) - グラフデータ。Amazonのコンピューター関連商品のカテゴリ分類（グラフノード分類）
  - [SLM_h2oDanube3_finetuning](./SLM_h2oDanube3_finetuning) - Small Language Model Fine Tuning Test
  - [Small_Vision_Model_h2oMississippi](./Small_Vision_Model_h2oMississippi) - Small Vision Language Model Test
