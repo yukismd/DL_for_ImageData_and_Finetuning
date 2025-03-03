@@ -16,12 +16,16 @@
 2) Driverless AIで説明変数なしでデフォルト設定で実施
   - 結果: [DAI_results/no_covariate/](DAI_results/no_covariate/)
 3) Chronos BoltでZero Shot予測
+  - Code: [code/chronos_bolt_0shot.ipynb](code/chronos_bolt_0shot.ipynb)
   - 結果: [Chronos_results/ChronosBolt_0shot.csv](Chronos_results/ChronosBolt_0shot.csv)
 4) Chronos BoltでFine Tuning
+  - Code: [code/chronos_bolt_FT.ipynb](code/chronos_bolt_FT.ipynb)
   - 結果: [Chronos_results/ChronosBolt_FT.csv](Chronos_results/ChronosBolt_FT.csv)
 5) Chronos Boltで説明変数を含めてZero Shot予測
+  - Code: [code/chronos_bolt_0shot_withCovariates.ipynb](code/chronos_bolt_0shot_withCovariates.ipynb)
   - 結果: [Chronos_results/ChronosBolt_0Shot_Covariate.csv](Chronos_results/ChronosBolt_0Shot_Covariate.csv)
 6) Chronos Boltで説明変数を含めてFine Tuning
+  - Code: [code/chronos_bolt_FT_withCovariates.ipynb](code/chronos_bolt_FT_withCovariates.ipynb)
   - 結果: [Chronos_results/ChronosBolt_FT_Covariate.csv](Chronos_results/ChronosBolt_FT_Covariate.csv)
 
 Driverless AI: https://docs.h2o.ai/driverless-ai/1-11-lts/docs/userguide/index.html  
