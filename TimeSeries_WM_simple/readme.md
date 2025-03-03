@@ -6,6 +6,7 @@
 テスト: [data/walmart_ts_6_fcst_grp_test.csv](./data/walmart_ts_6_fcst_grp_test.csv)  
 
 <img src="./プロット.png" alt="ts_plot">
+※ 黄色の影付き部分がテスト期間  
 
 
 ### アプローチ
