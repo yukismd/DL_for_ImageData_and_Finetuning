@@ -12,4 +12,4 @@ Document: https://paddlepaddle.github.io/PaddleOCR/latest/en/index.html
 ### 最終アウトプット
 学習データ: [DAI_document_classification_TRAIN_ocr.csv](./DAI_document_classification_TRAIN_ocr.csv)
 テストデータ: [DAI_document_classification_TEST_ocr.csv](.DAI_document_classification_TEST_ocr.csv)
-- 処理生データを元データと合わせてcsvで保存（処理コード: (make_csv.ipynb)[./make_csv.ipynb]）。このcsvデータをDriverless AIの学習とテストデータとする
+- 処理生データを元データと合わせてcsvで保存（処理コード: [make_csv.ipynb](./make_csv.ipynb)）。このcsvデータをDriverless AIの学習とテストデータとする
